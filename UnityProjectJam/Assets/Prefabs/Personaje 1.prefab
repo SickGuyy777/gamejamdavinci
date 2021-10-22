@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 5305040082968789417}
   - component: {fileID: 5305040082968789418}
   - component: {fileID: -1470182332893128857}
-  - component: {fileID: 2643807012051144203}
+  - component: {fileID: 110262953}
   m_Layer: 0
-  m_Name: Personaje 2
+  m_Name: Personaje 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31,7 +31,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5305040082968789422}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.03, y: -4.48, z: 0}
+  m_LocalPosition: {x: -2.55, y: 0.35, z: 0}
   m_LocalScale: {x: 0.36315, y: 0.36315, z: 0.36315}
   m_Children: []
   m_Father: {fileID: 0}
@@ -166,8 +166,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BaseTime: 7
-  PlayerNumber: 2
---- !u!114 &2643807012051144203
+  PlayerNumber: 1
+--- !u!114 &110262953
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

@@ -15,8 +15,9 @@ GameObject:
   - component: {fileID: 5305040082968789417}
   - component: {fileID: 5305040082968789418}
   - component: {fileID: -1470182332893128857}
+  - component: {fileID: 2643807012051144203}
   m_Layer: 0
-  m_Name: Personaje
+  m_Name: Personaje 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30,7 +31,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5305040082968789422}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.55, y: 0.35, z: 0}
+  m_LocalPosition: {x: -2.03, y: -4.48, z: 0}
   m_LocalScale: {x: 0.36315, y: 0.36315, z: 0.36315}
   m_Children: []
   m_Father: {fileID: 0}
@@ -164,6 +165,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ae442f594877e64995c0866449d4313, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Timer: 0
-  BaseTime: 0
-  PlayerNumber: 1
+  BaseTime: 7
+  PlayerNumber: 6
+--- !u!114 &2643807012051144203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5305040082968789422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baffd7766fa7a564aa137c5f76d359d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SkillCooldown: 2
+  SkillCurrentCooldown: 0
+  Bullet: {fileID: 5158947919955132962, guid: af9de6db4924ba9488affb402dc306d5, type: 3}

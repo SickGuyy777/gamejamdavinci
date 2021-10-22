@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: -1470182332893128857}
   - component: {fileID: 2643807012051144203}
   m_Layer: 0
-  m_Name: Personaje 2
+  m_Name: Personaje 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BaseTime: 7
-  PlayerNumber: 2
+  PlayerNumber: 3
 --- !u!114 &2643807012051144203
 MonoBehaviour:
   m_ObjectHideFlags: 0

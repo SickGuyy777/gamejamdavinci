@@ -18,9 +18,10 @@ public class TurnSystem : MonoBehaviour
     void Update()
     {
         Timer -= Time.deltaTime;
+        if (CharacterPlaying == 8) { CharacterPlaying = 0;}
         if (Timer <= 0) { CharacterPlaying += 1; Timer = BaseTime; }
-        if (CharacterPlaying != PlayerNumber) {GetComponent<CharacterMovement>().enabled = false;}
-        if (CharacterPlaying == PlayerNumber) { GetComponent<CharacterMovement>().enabled = true;}
-        if (CharacterPlaying >= 8) { CharacterPlaying = 0; }
+        if (CharacterPlaying != PlayerNumber) {GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false; }
+        if (CharacterPlaying == PlayerNumber) { GetComponent<CharacterMovement>().enabled = true; GetComponent<Skills>().enabled = true; }
+        if (CharacterPlaying == 8) { CharacterPlaying = 0; }
     }
 }
