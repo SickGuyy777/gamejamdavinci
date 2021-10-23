@@ -1437,6 +1437,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -1470182332893128857, guid: 49d771533242e5d4bb453ff19353d704,
+        type: 3}
+      propertyPath: BaseTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: -1470182332893128857, guid: 49d771533242e5d4bb453ff19353d704,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5305040082968789420, guid: 49d771533242e5d4bb453ff19353d704,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1511,6 +1521,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -1470182332893128857, guid: a6bfb73777bfad546804ca4e73b14e9f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 110262953, guid: a6bfb73777bfad546804ca4e73b14e9f, type: 3}
+      propertyPath: Bullet
+      value: 
+      objectReference: {fileID: 5158947919955132962, guid: 4cd336ef6dbae6a4a99afccaa807417a,
+        type: 3}
+    - target: {fileID: 110262953, guid: a6bfb73777bfad546804ca4e73b14e9f, type: 3}
+      propertyPath: MeleeAttack
+      value: 
+      objectReference: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
+        type: 3}
     - target: {fileID: 5305040082968789420, guid: a6bfb73777bfad546804ca4e73b14e9f,
         type: 3}
       propertyPath: m_LocalPosition.x

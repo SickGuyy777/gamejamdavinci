@@ -167,6 +167,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BaseTime: 7
   PlayerNumber: 6
+  Target: {fileID: 0}
+  Cameraposition: {x: 0, y: 0, z: 0}
 --- !u!114 &2643807012051144203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,4 +183,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SkillCooldown: 2
   SkillCurrentCooldown: 0
-  Bullet: {fileID: 5158947919955132962, guid: af9de6db4924ba9488affb402dc306d5, type: 3}
+  Bullet: {fileID: 5158947919955132962, guid: 4cd336ef6dbae6a4a99afccaa807417a, type: 3}
+  MeleeAttack: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
+    type: 3}

@@ -8,8 +8,8 @@ public class TurnSystem : MonoBehaviour
     public static float Timer;
     public float BaseTime;
     public int PlayerNumber;
-    public GameObject Target;
-    public Vector3 Cameraposition;
+    private GameObject Target;
+    private Vector3 Cameraposition;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,7 +26,7 @@ public class TurnSystem : MonoBehaviour
         if (CharacterPlaying == 8) { CharacterPlaying = 0;}
         if (Timer <= 0) { CharacterPlaying += 1; Timer = BaseTime; }
         if (CharacterPlaying != PlayerNumber) {GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false; }
-        if (CharacterPlaying == PlayerNumber) { GetComponent<CharacterMovement>().enabled = true; GetComponent<Skills>().enabled = true; Target.transform.parent = transform; Target.transform.position = Cameraposition; }
+        if (CharacterPlaying == PlayerNumber) { GetComponent<CharacterMovement>().enabled = true; GetComponent<Skills>().enabled = true; Target.transform.position = Cameraposition; }
         if (CharacterPlaying == 8) { CharacterPlaying = 1; }
     }
 }

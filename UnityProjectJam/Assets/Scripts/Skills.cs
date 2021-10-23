@@ -7,6 +7,8 @@ public class Skills : MonoBehaviour
     public float SkillCooldown;
     public float SkillCurrentCooldown;
     public GameObject Bullet;
+    public GameObject MeleeAttack;
+    public Vector3 AttackPosition;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +18,8 @@ public class Skills : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        AttackPosition = transform.position;
+        AttackPosition.x = transform.position.x + 1; 
         SkillCurrentCooldown -= Time.deltaTime;
         if (Input.GetKeyDown("e") && SkillCurrentCooldown <= 0) 
         {
@@ -26,6 +30,11 @@ public class Skills : MonoBehaviour
                     GameObject BulletInstance = Instantiate(Bullet, transform.position, Quaternion.identity);
                     BulletInstance.transform.right = transform.right;
                     break;
+                case 2:
+                    GameObject MeleeAttackInstance = Instantiate(MeleeAttack, AttackPosition, Quaternion.identity);
+                    MeleeAttackInstance.transform.right = transform.right;
+                    break;
+
             }
         }
 

@@ -160,7 +160,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5305040082968789422}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ae442f594877e64995c0866449d4313, type: 3}
   m_Name: 
@@ -181,4 +181,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SkillCooldown: 2
   SkillCurrentCooldown: 0
-  Bullet: {fileID: 5158947919955132962, guid: af9de6db4924ba9488affb402dc306d5, type: 3}
+  Bullet: {fileID: 5158947919955132962, guid: 4cd336ef6dbae6a4a99afccaa807417a, type: 3}
+  MeleeAttack: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
+    type: 3}
