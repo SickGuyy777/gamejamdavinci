@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: c01049a85c3100a42aa30628c5166ab4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3059230681771998413
+    second: muerto amarillo lado_0
+  - first:
+      213: 9182119775141619421
+    second: muerto amarillo lado_1
+  - first:
+      213: 4826762645173404540
+    second: muerto amarillo lado_2
+  - first:
+      213: -7053775547708663975
+    second: muerto amarillo lado_3
+  - first:
+      213: 2990163484709878219
+    second: muerto amarillo lado_4
+  - first:
+      213: 5678079211587741743
+    second: muerto amarillo lado_5
+  - first:
+      213: 3172084248971587327
+    second: muerto amarillo lado_6
+  - first:
+      213: -7419766112366363840
+    second: muerto amarillo lado_7
+  - first:
+      213: -6201051279577788215
+    second: muerto amarillo lado_8
+  - first:
+      213: -5855487744351292002
+    second: muerto amarillo lado_9
+  - first:
+      213: -3451313348842896004
+    second: muerto amarillo lado_10
+  - first:
+      213: -4982901825481453273
+    second: muerto amarillo lado_11
+  - first:
+      213: -4351581329642934080
+    second: muerto amarillo lado_12
+  - first:
+      213: 617910432956896674
+    second: muerto amarillo lado_13
+  - first:
+      213: 6680278399279384882
+    second: muerto amarillo lado_14
+  - first:
+      213: 2346397562617966276
+    second: muerto amarillo lado_15
+  - first:
+      213: 7568988664494760881
+    second: muerto amarillo lado_16
+  - first:
+      213: 636968309396160815
+    second: muerto amarillo lado_17
+  - first:
+      213: 250496821113900507
+    second: muerto amarillo lado_18
+  - first:
+      213: 4911754807548401957
+    second: muerto amarillo lado_19
+  - first:
+      213: -3048525654970926784
+    second: muerto amarillo lado_20
+  - first:
+      213: 8276063105542457439
+    second: muerto amarillo lado_21
+  - first:
+      213: 6763350585497041590
+    second: muerto amarillo lado_22
+  - first:
+      213: -6480657264967884545
+    second: muerto amarillo lado_23
+  - first:
+      213: 3316621341086767935
+    second: muerto amarillo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerto amarillo lado_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 267
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806e7dd8667dac45954b558159ef770
+      internalID: -3059230681771998413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 26
+        width: 279
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ecb57decd1ddf4a97f855999ef7a2e
+      internalID: 9182119775141619421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_2
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 26
+        width: 290
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0d631cd8a80e42a3e66621e8302a4
+      internalID: 4826762645173404540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 31
+        width: 296
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab31573d0c573b8449555f74458218bf
+      internalID: -7053775547708663975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 0
+        width: 313
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e9cc292d23044996b3a8cfdce8b5c
+      internalID: 2990163484709878219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_5
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 0
+        width: 335
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d21acae96871343866d91fe60bf21b
+      internalID: 5678079211587741743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_6
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 0
+        width: 358
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411941bd23853934f8ff2a8ad93e8cf6
+      internalID: 3172084248971587327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_7
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 0
+        width: 335
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aea90ac8da62045b4f2bc063ec570f
+      internalID: -7419766112366363840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_8
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 31
+        width: 301
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716f649627f1d54ba8c08a5b2e5ed3e
+      internalID: -6201051279577788215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 319
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db118f1a2c94d4ca86fea7d04c9f46
+      internalID: -5855487744351292002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_10
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 26
+        width: 285
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cabb92d940e29547ac17c05347d6793
+      internalID: -3451313348842896004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_11
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 20
+        width: 278
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd9261a495b6b4ebde1d4930b85cc1
+      internalID: -4982901825481453273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_12
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 14
+        width: 267
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd39e785f1b8494788354a29662f727
+      internalID: -4351581329642934080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_13
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 14
+        width: 239
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7eedec67507d84ca48a71e0f095fc9
+      internalID: 617910432956896674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_14
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 9
+        width: 233
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544a75b7fec7c34b8cdfe291b6a50b3
+      internalID: 6680278399279384882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_15
+      rect:
+        serializedVersion: 2
+        x: 7102
+        y: 3
+        width: 245
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa917573c00b3f34ea7aa16e7bbbe524
+      internalID: 2346397562617966276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_16
+      rect:
+        serializedVersion: 2
+        x: 7546
+        y: 3
+        width: 284
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be43ea2f00c454e8d9759484b62fc3
+      internalID: 7568988664494760881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_17
+      rect:
+        serializedVersion: 2
+        x: 7989
+        y: 3
+        width: 302
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428177951368184cb5d7dbf4c80814c
+      internalID: 636968309396160815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_18
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 3
+        width: 313
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949166af920c62429716bbac3a0769d
+      internalID: 250496821113900507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_19
+      rect:
+        serializedVersion: 2
+        x: 8888
+        y: 3
+        width: 324
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070578376757d941b200a57c283f846
+      internalID: 4911754807548401957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_20
+      rect:
+        serializedVersion: 2
+        x: 9338
+        y: 3
+        width: 341
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb47019879648469cea2d16a46c7ca
+      internalID: -3048525654970926784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_21
+      rect:
+        serializedVersion: 2
+        x: 9798
+        y: 9
+        width: 342
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3ee6655953dd469c3c326ed2e9339
+      internalID: 8276063105542457439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_22
+      rect:
+        serializedVersion: 2
+        x: 10259
+        y: 9
+        width: 341
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc523897bc8d3429bd762d97fbfc6a
+      internalID: 6763350585497041590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_23
+      rect:
+        serializedVersion: 2
+        x: 10720
+        y: 9
+        width: 347
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b36a9005250e845bfe5c786531594f
+      internalID: -6480657264967884545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto amarillo lado_24
+      rect:
+        serializedVersion: 2
+        x: 11186
+        y: 0
+        width: 353
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2e88529d420e24abc1328daa83dc2d
+      internalID: 3316621341086767935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

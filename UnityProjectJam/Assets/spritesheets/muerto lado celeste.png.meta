@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 4f3fc3bcdba827b42a21c2fb591e90d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 36251255961256265
+    second: muerto lado celeste_0
+  - first:
+      213: -1836844052732020733
+    second: muerto lado celeste_1
+  - first:
+      213: 5127704479968241081
+    second: muerto lado celeste_2
+  - first:
+      213: 3687033100446203010
+    second: muerto lado celeste_3
+  - first:
+      213: -3684068591794858535
+    second: muerto lado celeste_4
+  - first:
+      213: -7525736381661958590
+    second: muerto lado celeste_5
+  - first:
+      213: 8399086264181023805
+    second: muerto lado celeste_6
+  - first:
+      213: 6215719554151580422
+    second: muerto lado celeste_7
+  - first:
+      213: 5357923939434650120
+    second: muerto lado celeste_8
+  - first:
+      213: 3991916017098487476
+    second: muerto lado celeste_9
+  - first:
+      213: -3788700698517325396
+    second: muerto lado celeste_10
+  - first:
+      213: -6710074180751116684
+    second: muerto lado celeste_11
+  - first:
+      213: 7342086084595825257
+    second: muerto lado celeste_12
+  - first:
+      213: 6172699908011939281
+    second: muerto lado celeste_13
+  - first:
+      213: 4678439659786422585
+    second: muerto lado celeste_14
+  - first:
+      213: -1390798905285638092
+    second: muerto lado celeste_15
+  - first:
+      213: 2007318485815329659
+    second: muerto lado celeste_16
+  - first:
+      213: 1589740495402275730
+    second: muerto lado celeste_17
+  - first:
+      213: -703909711011231837
+    second: muerto lado celeste_18
+  - first:
+      213: -873428969431171871
+    second: muerto lado celeste_19
+  - first:
+      213: 7708482042143814221
+    second: muerto lado celeste_20
+  - first:
+      213: -8756948048878080369
+    second: muerto lado celeste_21
+  - first:
+      213: 2651951823482844448
+    second: muerto lado celeste_22
+  - first:
+      213: 6744812696828151062
+    second: muerto lado celeste_23
+  - first:
+      213: -7730939923705085365
+    second: muerto lado celeste_24
+  - first:
+      213: 5792194777658804848
+    second: muerto lado celeste_25
+  - first:
+      213: -5405635383330377896
+    second: muerto lado celeste_26
+  - first:
+      213: -9089561168761560248
+    second: muerto lado celeste_27
+  - first:
+      213: 2984280066595685182
+    second: muerto lado celeste_28
+  - first:
+      213: -4015762848294673395
+    second: muerto lado celeste_29
+  - first:
+      213: -6915391961358005356
+    second: muerto lado celeste_30
+  - first:
+      213: 6558455750830843970
+    second: muerto lado celeste_31
+  - first:
+      213: -7306141028617822098
+    second: muerto lado celeste_32
+  - first:
+      213: -7957503454511900783
+    second: muerto lado celeste_33
+  - first:
+      213: -7765630020612786071
+    second: muerto lado celeste_34
+  - first:
+      213: -2734208469463975722
+    second: muerto lado celeste_35
+  - first:
+      213: 4997420668144985206
+    second: muerto lado celeste_36
+  - first:
+      213: -7200633638824534176
+    second: muerto lado celeste_37
+  - first:
+      213: 3140722729379889285
+    second: muerto lado celeste_38
+  - first:
+      213: -7426979426652090832
+    second: muerto lado celeste_39
+  - first:
+      213: 4753709875349188172
+    second: muerto lado celeste_40
+  - first:
+      213: 6932302481092528133
+    second: muerto lado celeste_41
+  - first:
+      213: 2012890341682652879
+    second: muerto lado celeste_42
+  - first:
+      213: 3043664213715563163
+    second: muerto lado celeste_43
+  - first:
+      213: 1771707824708557765
+    second: muerto lado celeste_44
+  - first:
+      213: -2248520277465725112
+    second: muerto lado celeste_45
+  - first:
+      213: -6800274836164324259
+    second: muerto lado celeste_46
+  - first:
+      213: 2318761350205486034
+    second: muerto lado celeste_47
+  - first:
+      213: -3088859685533076674
+    second: muerto lado celeste_48
+  - first:
+      213: 2294213303613157346
+    second: muerto lado celeste_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerto lado celeste_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58f69434fed3142b54fd6b7243ca88
+      internalID: 36251255961256265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5b2f17b79cea43859398df1dc4869
+      internalID: -1836844052732020733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 272
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7009f65d5115fe4fa407b53abd6ef85
+      internalID: 5127704479968241081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c6e75b81b62f44a039998af4273cb
+      internalID: 3687033100446203010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 268
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b3cb8261cf7d4ba0fbfbf7113d37b
+      internalID: -3684068591794858535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 247
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a80c8e41857644696826eba062fa4b
+      internalID: -7525736381661958590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_6
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 268
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456d0ad12a2db040a77bb43a7e541f7
+      internalID: 8399086264181023805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_7
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 251
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec5bf5e2b6be248b698be2aa0fe165
+      internalID: 6215719554151580422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_8
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 267
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304db1a728e41f43ae661f85abe1cf6
+      internalID: 5357923939434650120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_9
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 0
+        width: 247
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11fae4b85545e44389d3ddffcb0558a
+      internalID: 3991916017098487476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_10
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b29d7e13323540bd582f08dd98343
+      internalID: -3788700698517325396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_11
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 261
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee9b34e47753d4b81cf5d488b37c79
+      internalID: -6710074180751116684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_12
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 0
+        width: 245
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733ca6ddee67e8479948cec3b9eb0b2
+      internalID: 7342086084595825257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_13
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c577384c2787d4da5dae55afaa919d
+      internalID: 6172699908011939281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_14
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 237
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59afb81addcfab4ba15cb52bc7ffe62
+      internalID: 4678439659786422585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_15
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 0
+        width: 237
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc9c2b170ac664090e7df0ed64e4ff
+      internalID: -1390798905285638092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_16
+      rect:
+        serializedVersion: 2
+        x: 4126
+        y: 52
+        width: 237
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884aa5ae42c9d6e499d2b94da496ad9c
+      internalID: 2007318485815329659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_17
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 52
+        width: 232
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80161777f01301b4faae805204cb7d77
+      internalID: 1589740495402275730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_18
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 52
+        width: 228
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e0c3a043c91b47a798b2923adef88
+      internalID: -703909711011231837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_19
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 52
+        width: 232
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86967346f3ae648819a9d3ec70e951
+      internalID: -873428969431171871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_20
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 0
+        width: 236
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1602e76d8e2f22b4f8a977549549e5b0
+      internalID: 7708482042143814221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_21
+      rect:
+        serializedVersion: 2
+        x: 6153
+        y: 52
+        width: 232
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f8306a8857eb4182078c826f4a26b
+      internalID: -8756948048878080369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_22
+      rect:
+        serializedVersion: 2
+        x: 6558
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006086c73c56cee4898d683f9cd6806f
+      internalID: 2651951823482844448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_23
+      rect:
+        serializedVersion: 2
+        x: 6964
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b569af9d5a69adc4ebc5ed24ff6979f2
+      internalID: 6744812696828151062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_24
+      rect:
+        serializedVersion: 2
+        x: 7374
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742e9f4b11e153946a1d3fe6a209e648
+      internalID: -7730939923705085365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_25
+      rect:
+        serializedVersion: 2
+        x: 7737
+        y: 263
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ec79c9793f1e448e442aff52bcad6
+      internalID: 5792194777658804848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_26
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add0b0571f23e947852b3c816a7c83f
+      internalID: -5405635383330377896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_27
+      rect:
+        serializedVersion: 2
+        x: 8141
+        y: 266
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15429b8c79b02548bff47b44241eb91
+      internalID: -9089561168761560248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_28
+      rect:
+        serializedVersion: 2
+        x: 8185
+        y: 0
+        width: 246
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21064b4ce14fb74b9fe0517970f6983
+      internalID: 2984280066595685182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_29
+      rect:
+        serializedVersion: 2
+        x: 8548
+        y: 268
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2fff0366c53b458250962d462c44f
+      internalID: -4015762848294673395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_30
+      rect:
+        serializedVersion: 2
+        x: 8590
+        y: 0
+        width: 247
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6b605ffa12b146824d077d30294db
+      internalID: -6915391961358005356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_31
+      rect:
+        serializedVersion: 2
+        x: 8952
+        y: 268
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c9a209e086e34a9e2399c2faf7d83
+      internalID: 6558455750830843970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_32
+      rect:
+        serializedVersion: 2
+        x: 8995
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa0b5482ba3914cbfce6163138b6f0
+      internalID: -7306141028617822098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_33
+      rect:
+        serializedVersion: 2
+        x: 9358
+        y: 272
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5550f8f53a3229242bef9e2baf81dbc5
+      internalID: -7957503454511900783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_34
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a3f650792f9e499ef3042bc923251
+      internalID: -7765630020612786071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_35
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a63cb64d5f4448abf3f9db989f922
+      internalID: -2734208469463975722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_36
+      rect:
+        serializedVersion: 2
+        x: 9806
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fe31a230ebf74ca58a8cd267d7d66
+      internalID: 4997420668144985206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_37
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 264
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8f1b1265ca244fbad25d0c0f3fa3b
+      internalID: -7200633638824534176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_38
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 258
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5bb78470649c84a86b950ca079afb2
+      internalID: 3140722729379889285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_39
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 257
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef30c63f90d85442864f7ca7326537a
+      internalID: -7426979426652090832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_40
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 256
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5a68872b0620449ad679d3d30e8ac
+      internalID: 4753709875349188172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_41
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97948c04a2158ca4e98afc47627c5c1a
+      internalID: 6932302481092528133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_42
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c9c8b2654412478f5041c5734f207
+      internalID: 2012890341682652879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_43
+      rect:
+        serializedVersion: 2
+        x: 6922
+        y: 258
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd41294f6b538447bd5335af7414168
+      internalID: 3043664213715563163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_44
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be558ed7a26f9ec4b8cfa14b8559d870
+      internalID: 1771707824708557765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_45
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 252
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ecfd2167fe9a0409b5c299fb2e2859
+      internalID: -2248520277465725112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_46
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 252
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e12794608cb0e46b0b7548591de2e5
+      internalID: -6800274836164324259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_47
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 249
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3617d1a88112c3408a0e539e5ec91b5
+      internalID: 2318761350205486034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_48
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 252
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c6f780463f454195023a7e5c690ae
+      internalID: -3088859685533076674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto lado celeste_49
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 253
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba88b6e792135b49b195d52f2025374
+      internalID: 2294213303613157346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: c1319a01a7a227a45a27cad47dccda4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8577292613326691733
+    second: correr rojo lado_0
+  - first:
+      213: 2420400941896602724
+    second: correr rojo lado_1
+  - first:
+      213: -7221115338653428517
+    second: correr rojo lado_2
+  - first:
+      213: 5631346664958884496
+    second: correr rojo lado_3
+  - first:
+      213: 5793928176106394068
+    second: correr rojo lado_4
+  - first:
+      213: -3702849322963563197
+    second: correr rojo lado_5
+  - first:
+      213: -5830459143148057792
+    second: correr rojo lado_6
+  - first:
+      213: 2222125468946234379
+    second: correr rojo lado_7
+  - first:
+      213: 6424522908674034915
+    second: correr rojo lado_8
+  - first:
+      213: 4843296703959334243
+    second: correr rojo lado_9
+  - first:
+      213: -4224513486669472699
+    second: correr rojo lado_10
+  - first:
+      213: -5346832095395428253
+    second: correr rojo lado_11
+  - first:
+      213: 4939895585698302239
+    second: correr rojo lado_12
+  - first:
+      213: -5013885748890348629
+    second: correr rojo lado_13
+  - first:
+      213: -3327836989131168410
+    second: correr rojo lado_14
+  - first:
+      213: -8994589969909542860
+    second: correr rojo lado_15
+  - first:
+      213: -3357696476181286916
+    second: correr rojo lado_16
+  - first:
+      213: 8033557038225916915
+    second: correr rojo lado_17
+  - first:
+      213: -2072242865250558801
+    second: correr rojo lado_18
+  - first:
+      213: 2980396679827304778
+    second: correr rojo lado_19
+  - first:
+      213: 4834666514691589729
+    second: correr rojo lado_20
+  - first:
+      213: 4998637300285971606
+    second: correr rojo lado_21
+  - first:
+      213: 2270022046608636552
+    second: correr rojo lado_22
+  - first:
+      213: 2291480183903781567
+    second: correr rojo lado_23
+  - first:
+      213: -3497055419985745956
+    second: correr rojo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correr rojo lado_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 26
+        width: 308
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda6b1339999fff468c1e7dbe543c0a8
+      internalID: -8577292613326691733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 20
+        width: 299
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fa39c7f51d46748b39fd64d8993553
+      internalID: 2420400941896602724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 31
+        width: 319
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9725c91e34d82408904df3130051a9
+      internalID: -7221115338653428517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_3
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 14
+        width: 286
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe63db23b47f541a159bd4db967141
+      internalID: 5631346664958884496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 14
+        width: 280
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24e44cd4be6336428b702100c6ec273
+      internalID: 5793928176106394068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_5
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 20
+        width: 269
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af75775ef1cdcd0458caec35c9c87ce7
+      internalID: -3702849322963563197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_6
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 42
+        width: 240
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4125e2ba4221a774ca28afa817acc3f8
+      internalID: -5830459143148057792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_7
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 31
+        width: 257
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bd04975a3cf1f459ec9ee9007720dc
+      internalID: 2222125468946234379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_8
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 48
+        width: 240
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b79fec1e1d3e4438a4be1bd1b9d00e
+      internalID: 6424522908674034915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_9
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 53
+        width: 235
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b57ca39eeb184186d76631f09363e
+      internalID: 4843296703959334243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_10
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 48
+        width: 234
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defe3a80b0cce0549b73c764f28f811f
+      internalID: -4224513486669472699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_11
+      rect:
+        serializedVersion: 2
+        x: 5206
+        y: 48
+        width: 226
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192416df28e1fa43b44749af3be0b9c
+      internalID: -5346832095395428253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_12
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 43
+        width: 230
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e0cbe6f97d4b458664eb4304cafbb
+      internalID: 4939895585698302239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_13
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 20
+        width: 229
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fedd933e7f68d946a1f978e6c107145
+      internalID: -5013885748890348629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_14
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 31
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6aa7999c040b45a2426d96f33fb9f
+      internalID: -3327836989131168410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_15
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 36
+        width: 224
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d831b03d8f6e54dabbbfae0a11fdc7
+      internalID: -8994589969909542860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_16
+      rect:
+        serializedVersion: 2
+        x: 7466
+        y: 20
+        width: 239
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fa8f667336fb43a9f029b877b7488
+      internalID: -3357696476181286916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_17
+      rect:
+        serializedVersion: 2
+        x: 7920
+        y: 20
+        width: 241
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd585bc57198e042ada9fabab62e5ca
+      internalID: 8033557038225916915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_18
+      rect:
+        serializedVersion: 2
+        x: 8368
+        y: 20
+        width: 258
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076aee7cb548cf49b6821b287eb3dec
+      internalID: -2072242865250558801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_19
+      rect:
+        serializedVersion: 2
+        x: 8822
+        y: 20
+        width: 269
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde34b5b859d49144afc6f8877495417
+      internalID: 2980396679827304778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_20
+      rect:
+        serializedVersion: 2
+        x: 9276
+        y: 21
+        width: 280
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b8d984b3ef1545881e28f479fe1fe
+      internalID: 4834666514691589729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_21
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 26
+        width: 297
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ceeb909e6b2a34e8b14f9415558fc1
+      internalID: 4998637300285971606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_22
+      rect:
+        serializedVersion: 2
+        x: 10189
+        y: 31
+        width: 303
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42380ade33f01394e84ce39b21fdfb62
+      internalID: 2270022046608636552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_23
+      rect:
+        serializedVersion: 2
+        x: 10643
+        y: 36
+        width: 313
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a897dd6b38a14e82c1f8e83c062e7
+      internalID: 2291480183903781567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr rojo lado_24
+      rect:
+        serializedVersion: 2
+        x: 11098
+        y: 31
+        width: 318
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0a5e8c2b887d4d8b50215a0ac13b1
+      internalID: -3497055419985745956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

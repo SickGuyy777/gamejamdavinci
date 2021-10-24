@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: ddfd8af147372614e93bd2e18b23ed97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7743846924407174519
+    second: correr amarillo lado_0
+  - first:
+      213: -1294689082085443375
+    second: correr amarillo lado_1
+  - first:
+      213: 7546960684080823719
+    second: correr amarillo lado_2
+  - first:
+      213: 447314848021316145
+    second: correr amarillo lado_3
+  - first:
+      213: 4540617390924622370
+    second: correr amarillo lado_4
+  - first:
+      213: -3422167910178067400
+    second: correr amarillo lado_5
+  - first:
+      213: 1097303682733421254
+    second: correr amarillo lado_6
+  - first:
+      213: 6659117119733293699
+    second: correr amarillo lado_7
+  - first:
+      213: 2595152222473387214
+    second: correr amarillo lado_8
+  - first:
+      213: -7675345390344342378
+    second: correr amarillo lado_9
+  - first:
+      213: 5123729500699719401
+    second: correr amarillo lado_10
+  - first:
+      213: 3911881514639099028
+    second: correr amarillo lado_11
+  - first:
+      213: 7058374575531793334
+    second: correr amarillo lado_12
+  - first:
+      213: -5561045355581957427
+    second: correr amarillo lado_13
+  - first:
+      213: 2776341711551197671
+    second: correr amarillo lado_14
+  - first:
+      213: -4198572283120578710
+    second: correr amarillo lado_15
+  - first:
+      213: -5823009544054195690
+    second: correr amarillo lado_16
+  - first:
+      213: 8333796347521856744
+    second: correr amarillo lado_17
+  - first:
+      213: 6725435487794964137
+    second: correr amarillo lado_18
+  - first:
+      213: 351479648247400510
+    second: correr amarillo lado_19
+  - first:
+      213: 8095098542237304999
+    second: correr amarillo lado_20
+  - first:
+      213: 7831052565749356498
+    second: correr amarillo lado_21
+  - first:
+      213: 2189577822753582578
+    second: correr amarillo lado_22
+  - first:
+      213: -1867873493865292240
+    second: correr amarillo lado_23
+  - first:
+      213: -5535460183662514731
+    second: correr amarillo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correr amarillo lado_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 43
+        width: 258
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5589b2abeecf34ca4db1383af66ee3
+      internalID: -7743846924407174519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 31
+        width: 247
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d7062154f6fe94d9804fdf9f71ce77
+      internalID: -1294689082085443375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 22
+        width: 235
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b8e6736580544782e9474e8c594b9
+      internalID: 7546960684080823719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_3
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 15
+        width: 227
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5809e307776b4590517743b35f8bd
+      internalID: 447314848021316145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 14
+        width: 219
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb4aac869882046b916d5a5293a4a8
+      internalID: 4540617390924622370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_5
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 15
+        width: 246
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b463ae748c4847bf410d3a2b3d393
+      internalID: -3422167910178067400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_6
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 14
+        width: 268
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe867dc16947c4b868014d71f3a77b
+      internalID: 1097303682733421254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_7
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 18
+        width: 283
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531413f3aa5cad94d8dca8764dc2095f
+      internalID: 6659117119733293699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_8
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 18
+        width: 292
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf436ef9648ca4c438fd3e9a03ba3ef9
+      internalID: 2595152222473387214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_9
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 18
+        width: 303
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f223ce017dd5d44bc4560db030a429
+      internalID: -7675345390344342378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_10
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 26
+        width: 309
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c494f41033134db318b39340e86e4
+      internalID: 5123729500699719401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_11
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 30
+        width: 313
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b98e2cbb77994faa8bdd55f9b8946
+      internalID: 3911881514639099028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_12
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 35
+        width: 311
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86993b9e179e89242843872894a52d49
+      internalID: 7058374575531793334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_13
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 29
+        width: 308
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4187cc03f64808499586763eef33867
+      internalID: -5561045355581957427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_14
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 22
+        width: 303
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93c80a373ebbc45859ccc1e2f999f6
+      internalID: 2776341711551197671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_15
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 18
+        width: 288
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f0c67618c31b488f6fdf4ce5d7a18
+      internalID: -4198572283120578710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_16
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 14
+        width: 279
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4a38a78ec98b14bab0da0b100f2591
+      internalID: -5823009544054195690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_17
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 6
+        width: 267
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e3b2842d9b9f4893a1e2c6ecd5cf1
+      internalID: 8333796347521856744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_18
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 3
+        width: 251
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8cc37ada125f2478991a73a37877ef
+      internalID: 6725435487794964137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_19
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 6
+        width: 239
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5888263aab2747bf143c79a7c1489
+      internalID: 351479648247400510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_20
+      rect:
+        serializedVersion: 2
+        x: 6717
+        y: 10
+        width: 219
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d81f13896837445a5410a4be9e82c1
+      internalID: 8095098542237304999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_21
+      rect:
+        serializedVersion: 2
+        x: 7046
+        y: 14
+        width: 227
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c1dac96877314aad30ae22245d9a4
+      internalID: 7831052565749356498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_22
+      rect:
+        serializedVersion: 2
+        x: 7370
+        y: 22
+        width: 239
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79800f8121f8c174cb874989ec6b2905
+      internalID: 2189577822753582578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_23
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 34
+        width: 251
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8690c43fd7e0be348aee72f2d1fbede5
+      internalID: -1867873493865292240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr amarillo lado_24
+      rect:
+        serializedVersion: 2
+        x: 8031
+        y: 43
+        width: 255
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37997f255900a4190e1ad30c102ca9
+      internalID: -5535460183662514731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

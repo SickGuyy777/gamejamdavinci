@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: da03893a7d64a1c49866c8fb0dedc6fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2002760437308424778
+    second: ataque rojo lado_0
+  - first:
+      213: -1653258211663135177
+    second: ataque rojo lado_1
+  - first:
+      213: 1098769326090426056
+    second: ataque rojo lado_2
+  - first:
+      213: -3197065207096686286
+    second: ataque rojo lado_3
+  - first:
+      213: 1902036448058518210
+    second: ataque rojo lado_4
+  - first:
+      213: 6909479206415523440
+    second: ataque rojo lado_5
+  - first:
+      213: -620608097849495024
+    second: ataque rojo lado_6
+  - first:
+      213: 5308299658973259571
+    second: ataque rojo lado_7
+  - first:
+      213: 7881432627127359226
+    second: ataque rojo lado_8
+  - first:
+      213: -6843851044551887236
+    second: ataque rojo lado_9
+  - first:
+      213: -3154262068816508113
+    second: ataque rojo lado_10
+  - first:
+      213: 4624868177962283716
+    second: ataque rojo lado_11
+  - first:
+      213: 8559429115164049082
+    second: ataque rojo lado_12
+  - first:
+      213: -1235033302195857702
+    second: ataque rojo lado_13
+  - first:
+      213: 83711869113510242
+    second: ataque rojo lado_14
+  - first:
+      213: -4370810964960574663
+    second: ataque rojo lado_15
+  - first:
+      213: 1020907066581401262
+    second: ataque rojo lado_16
+  - first:
+      213: 3395948171094149243
+    second: ataque rojo lado_17
+  - first:
+      213: 2651530894133051109
+    second: ataque rojo lado_18
+  - first:
+      213: 5671450132460918248
+    second: ataque rojo lado_19
+  - first:
+      213: -2360362644939976507
+    second: ataque rojo lado_20
+  - first:
+      213: 311711046332305492
+    second: ataque rojo lado_21
+  - first:
+      213: -3399131492371856680
+    second: ataque rojo lado_22
+  - first:
+      213: -7512660838696200948
+    second: ataque rojo lado_23
+  - first:
+      213: -4591133675146626444
+    second: ataque rojo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ataque rojo lado_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 263
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7b0559de057354c8ef258fdd04e3b6
+      internalID: 2002760437308424778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 7
+        width: 292
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c321d8775d4e48a78a3959a64fa86
+      internalID: -1653258211663135177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_2
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 8
+        width: 308
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01ea1c55762ac48b1011191a20b9a9
+      internalID: 1098769326090426056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_3
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 3
+        width: 319
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed59e13e7e0ba469ff8ddfcab77e56
+      internalID: -3197065207096686286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 15
+        width: 344
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ca4733c91cf8e42a8deb86d1692700
+      internalID: 1902036448058518210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_5
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 36
+        width: 353
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91bc27026c2f4c4687298934d605e5d
+      internalID: 6909479206415523440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_6
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 53
+        width: 355
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2450b63b682024ba1d98bccaa7c213
+      internalID: -620608097849495024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_7
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 92
+        width: 349
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea9a0657b06194695cbf59be54303e
+      internalID: 5308299658973259571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_8
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 98
+        width: 342
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fcf62133d29f146bdb3940c20e2382
+      internalID: 7881432627127359226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_9
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 87
+        width: 364
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44795cb571bc44f8d6d89540308343
+      internalID: -6843851044551887236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_10
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 92
+        width: 336
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b21f0ac2d23f04fa57743ac0da47bb
+      internalID: -3154262068816508113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_11
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 81
+        width: 340
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774bb38a0b4d264e9f8e9e08c6ef461
+      internalID: 4624868177962283716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_12
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 109
+        width: 325
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e908e59769fa47a5b535a4cec89a6
+      internalID: 8559429115164049082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_13
+      rect:
+        serializedVersion: 2
+        x: 6116
+        y: 87
+        width: 297
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a831ee89ce71e24fb91a68568d56b98
+      internalID: -1235033302195857702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_14
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 88
+        width: 310
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106f56c2e1edc74abe7fc0b210088b4
+      internalID: 83711869113510242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_15
+      rect:
+        serializedVersion: 2
+        x: 6990
+        y: 92
+        width: 352
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b2bd2d1aa63949a623895ae9c2689
+      internalID: -4370810964960574663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_16
+      rect:
+        serializedVersion: 2
+        x: 7438
+        y: 98
+        width: 364
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd9eee97bbf5a4da95c8233a8a7eb6
+      internalID: 1020907066581401262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_17
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 115
+        width: 358
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47ff195bb51544ea9f5bbaad61db35
+      internalID: 3395948171094149243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_18
+      rect:
+        serializedVersion: 2
+        x: 8363
+        y: 126
+        width: 352
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32fde1cf28a4af438a2371fcc464a05
+      internalID: 2651530894133051109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_19
+      rect:
+        serializedVersion: 2
+        x: 8805
+        y: 70
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b29d67fe5e23c249a309cc70b0c954a
+      internalID: 5671450132460918248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_20
+      rect:
+        serializedVersion: 2
+        x: 9265
+        y: 115
+        width: 358
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736714c9a4936614f9b57b4b9215fafe
+      internalID: -2360362644939976507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_21
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 53
+        width: 341
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501594b06c0c8a44ba924a31c92fd6a
+      internalID: 311711046332305492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_22
+      rect:
+        serializedVersion: 2
+        x: 10212
+        y: 31
+        width: 296
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3e142cf19a3e479cd0f59224981b8
+      internalID: -3399131492371856680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_23
+      rect:
+        serializedVersion: 2
+        x: 10688
+        y: 14
+        width: 263
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe7df70c6a29545bff000e6c132ab2
+      internalID: -7512660838696200948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque rojo lado_24
+      rect:
+        serializedVersion: 2
+        x: 11158
+        y: 14
+        width: 268
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6885297a47d054dbd3cfa6ce5939a9
+      internalID: -4591133675146626444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 853adbd1d40c6d24e89055038049611b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8344785750251765891
+    second: muerto rojo lado_0
+  - first:
+      213: -4210772541815823951
+    second: muerto rojo lado_1
+  - first:
+      213: 3874727197218747597
+    second: muerto rojo lado_2
+  - first:
+      213: -1105251038535266050
+    second: muerto rojo lado_3
+  - first:
+      213: -8359967217487919999
+    second: muerto rojo lado_4
+  - first:
+      213: 8280630799640349129
+    second: muerto rojo lado_5
+  - first:
+      213: -2601937963591168709
+    second: muerto rojo lado_6
+  - first:
+      213: 746471898917075158
+    second: muerto rojo lado_7
+  - first:
+      213: 8133618504310247510
+    second: muerto rojo lado_8
+  - first:
+      213: 8932713392713883851
+    second: muerto rojo lado_9
+  - first:
+      213: -5325031329130339644
+    second: muerto rojo lado_10
+  - first:
+      213: -2903492621152379587
+    second: muerto rojo lado_11
+  - first:
+      213: 1347470455434393641
+    second: muerto rojo lado_12
+  - first:
+      213: -3816980338800938905
+    second: muerto rojo lado_13
+  - first:
+      213: -7522783148273170032
+    second: muerto rojo lado_14
+  - first:
+      213: -7263785640713386219
+    second: muerto rojo lado_15
+  - first:
+      213: -4290035700749358007
+    second: muerto rojo lado_16
+  - first:
+      213: -7557246609687263066
+    second: muerto rojo lado_17
+  - first:
+      213: 5732545080297863470
+    second: muerto rojo lado_18
+  - first:
+      213: -6066103490436578118
+    second: muerto rojo lado_19
+  - first:
+      213: -5111211673815830134
+    second: muerto rojo lado_20
+  - first:
+      213: -7969380804130123030
+    second: muerto rojo lado_21
+  - first:
+      213: -4201890797903364027
+    second: muerto rojo lado_22
+  - first:
+      213: 9138835609287940938
+    second: muerto rojo lado_23
+  - first:
+      213: 3900111693265847051
+    second: muerto rojo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerto rojo lado_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 14
+        width: 212
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce647d3789375e947a4ed529b1c184f4
+      internalID: -8344785750251765891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 10
+        width: 207
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e01f22ec71d0e41b78f54c78fa9a95
+      internalID: -4210772541815823951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_2
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 9
+        width: 212
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b314916ec3b24b9aa439ba84849fa
+      internalID: 3874727197218747597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_3
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 8
+        width: 217
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da504a5e6b6d2b4428e73957b5cc4666
+      internalID: -1105251038535266050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8
+        width: 218
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffac87e004950445b0382fd3e78fc5f
+      internalID: -8359967217487919999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_5
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 8
+        width: 218
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48a7a8b8d9425418fe61e390681c05
+      internalID: 8280630799640349129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_6
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 9
+        width: 218
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda6ea5cc424ab54eb874c8988c4caed
+      internalID: -2601937963591168709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_7
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 14
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22f1297edad3c46a77951ddb18d743
+      internalID: 746471898917075158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_8
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 14
+        width: 218
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be69f20736edad48a7809b3d2a397d3
+      internalID: 8133618504310247510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_9
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 14
+        width: 218
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c3bc0176e5e94e91774685b3f6750
+      internalID: 8932713392713883851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_10
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 14
+        width: 213
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb5b57e22552c459c3ab9a7cf239f9
+      internalID: -5325031329130339644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_11
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 14
+        width: 213
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2425fd58733abaf448081a70e77e1d75
+      internalID: -2903492621152379587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_12
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 3
+        width: 207
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3beeda5e19a3b4781fc11461b814ad
+      internalID: 1347470455434393641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_13
+      rect:
+        serializedVersion: 2
+        x: 6133
+        y: 14
+        width: 211
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051e3cf96017cf45bdb564e9ad601ce
+      internalID: -3816980338800938905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_14
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 3
+        width: 207
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf035dd73c560c488ee25d81670e47c
+      internalID: -7522783148273170032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_15
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 3
+        width: 215
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d389c4a0a4ca0d438a8b2bbc2c3a96d
+      internalID: -7263785640713386219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_16
+      rect:
+        serializedVersion: 2
+        x: 7478
+        y: 3
+        width: 228
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d2a39df024114a945106c92ed2367
+      internalID: -4290035700749358007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_17
+      rect:
+        serializedVersion: 2
+        x: 7914
+        y: 14
+        width: 252
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b29ec44985d349b064451cdea97aa
+      internalID: -7557246609687263066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_18
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 20
+        width: 286
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f4eb677725b84eab9990fedbc3c96
+      internalID: 5732545080297863470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_19
+      rect:
+        serializedVersion: 2
+        x: 8738
+        y: 31
+        width: 347
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53583051808c6e344a11c2587b8aa18d
+      internalID: -6066103490436578118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_20
+      rect:
+        serializedVersion: 2
+        x: 9231
+        y: 25
+        width: 314
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6c3d681a6c614f84eed00cf7a9090
+      internalID: -5111211673815830134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_21
+      rect:
+        serializedVersion: 2
+        x: 9668
+        y: 26
+        width: 336
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35de586e1aa8ec46b6da8cce66c251a
+      internalID: -7969380804130123030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_22
+      rect:
+        serializedVersion: 2
+        x: 10111
+        y: 25
+        width: 353
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e626ac21ae9046931095455f10667
+      internalID: -4201890797903364027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_23
+      rect:
+        serializedVersion: 2
+        x: 10570
+        y: 20
+        width: 353
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c419d9ef24733499eecc10a7457fac
+      internalID: 9138835609287940938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto rojo lado_24
+      rect:
+        serializedVersion: 2
+        x: 11030
+        y: 9
+        width: 358
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30de99099b3304da13e6dfbd6253bd
+      internalID: 3900111693265847051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

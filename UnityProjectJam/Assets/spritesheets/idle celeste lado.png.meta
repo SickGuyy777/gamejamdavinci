@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 7861a7dd4d66e1441934271ce4eb5137
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6324857604702702742
+    second: idle celeste lado_0
+  - first:
+      213: -3557826323518767805
+    second: idle celeste lado_1
+  - first:
+      213: -1143258696670722659
+    second: idle celeste lado_2
+  - first:
+      213: 1789648201794204859
+    second: idle celeste lado_3
+  - first:
+      213: 1852421654635835083
+    second: idle celeste lado_4
+  - first:
+      213: 1670022164805695648
+    second: idle celeste lado_5
+  - first:
+      213: 5957943617191931966
+    second: idle celeste lado_6
+  - first:
+      213: 3991135006407138343
+    second: idle celeste lado_7
+  - first:
+      213: 7020982562189994975
+    second: idle celeste lado_8
+  - first:
+      213: 2344844421604016308
+    second: idle celeste lado_9
+  - first:
+      213: -6036596556958323712
+    second: idle celeste lado_10
+  - first:
+      213: -7737460014981553985
+    second: idle celeste lado_11
+  - first:
+      213: -8117060164466047887
+    second: idle celeste lado_12
+  - first:
+      213: 958214372748411295
+    second: idle celeste lado_13
+  - first:
+      213: 8589984247328795164
+    second: idle celeste lado_14
+  - first:
+      213: -8341352143998521898
+    second: idle celeste lado_15
+  - first:
+      213: 1009819932777425775
+    second: idle celeste lado_16
+  - first:
+      213: 3078007042030322411
+    second: idle celeste lado_17
+  - first:
+      213: -7879289433902655526
+    second: idle celeste lado_18
+  - first:
+      213: 6491383451395179129
+    second: idle celeste lado_19
+  - first:
+      213: -8020594357731987502
+    second: idle celeste lado_20
+  - first:
+      213: 1858263263973908715
+    second: idle celeste lado_21
+  - first:
+      213: 1753002842422305807
+    second: idle celeste lado_22
+  - first:
+      213: 5233176517117108850
+    second: idle celeste lado_23
+  - first:
+      213: -6692111201566016168
+    second: idle celeste lado_24
+  - first:
+      213: 5676659423766063143
+    second: idle celeste lado_25
+  - first:
+      213: 6485565917166839988
+    second: idle celeste lado_26
+  - first:
+      213: 8392103665803051684
+    second: idle celeste lado_27
+  - first:
+      213: 8229135588676225998
+    second: idle celeste lado_28
+  - first:
+      213: 3200226378138476918
+    second: idle celeste lado_29
+  - first:
+      213: 1961526209903180182
+    second: idle celeste lado_30
+  - first:
+      213: 5682150188085470030
+    second: idle celeste lado_31
+  - first:
+      213: -1206847468208659819
+    second: idle celeste lado_32
+  - first:
+      213: -5834269989637849592
+    second: idle celeste lado_33
+  - first:
+      213: 288517643873948348
+    second: idle celeste lado_34
+  - first:
+      213: 6830341242388352919
+    second: idle celeste lado_35
+  - first:
+      213: 8041800097811037485
+    second: idle celeste lado_36
+  - first:
+      213: -7004950050942807766
+    second: idle celeste lado_37
+  - first:
+      213: -7295097858836180548
+    second: idle celeste lado_38
+  - first:
+      213: 4885429313263834639
+    second: idle celeste lado_39
+  - first:
+      213: -2413301266003364404
+    second: idle celeste lado_40
+  - first:
+      213: -2001482441178225364
+    second: idle celeste lado_41
+  - first:
+      213: 3818874483283901834
+    second: idle celeste lado_42
+  - first:
+      213: -3978929026608401498
+    second: idle celeste lado_43
+  - first:
+      213: 9041082387479901067
+    second: idle celeste lado_44
+  - first:
+      213: -4801448762112082942
+    second: idle celeste lado_45
+  - first:
+      213: 3085124583071348558
+    second: idle celeste lado_46
+  - first:
+      213: -6093492902118075446
+    second: idle celeste lado_47
+  - first:
+      213: -2064468761807487825
+    second: idle celeste lado_48
+  - first:
+      213: -8236638282680861260
+    second: idle celeste lado_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle celeste lado_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a195869177c884f4fac86f3c37393bd4
+      internalID: 6324857604702702742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e60682ab65ee44a8f3e7344e49e9de
+      internalID: -3557826323518767805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 272
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb57a6137c98da4fa92104bec8784cb
+      internalID: -1143258696670722659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5cbad176b5374cb0dd73b17ac0cd6
+      internalID: 1789648201794204859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 267
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d68e3ae99670845a7d21ad0fb4db6c
+      internalID: 1852421654635835083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_5
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 251
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d282c8a0059f9842b1654a2c4e0e30e
+      internalID: 1670022164805695648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_6
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 267
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13879ce9dc9a54fb637bdefd55922e
+      internalID: 5957943617191931966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_7
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 247
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a1d20d54f89e409114f6cbe4af2f6
+      internalID: 3991135006407138343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_8
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 268
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477763a5d04223345a1935b6ff2cf8d0
+      internalID: 7020982562189994975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_9
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5c0c89b1547c4c965ba90ed2f3c06
+      internalID: 2344844421604016308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_10
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0893b8217b4445240be6d2f7fdc6ec7c
+      internalID: -6036596556958323712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_11
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 261
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf054552e5eed914cae103def91979fa
+      internalID: -7737460014981553985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_12
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 0
+        width: 245
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8348af483789ce64c9355f363b16330f
+      internalID: -8117060164466047887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_13
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e663ec468d81fe40a1e0d7940cfc44b
+      internalID: 958214372748411295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_14
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 237
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809a9a4e030ed2c448ee5ff27b95a4c7
+      internalID: 8589984247328795164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_15
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 0
+        width: 237
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb930fa899cc1fc4fbd3d363402ce47f
+      internalID: -8341352143998521898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_16
+      rect:
+        serializedVersion: 2
+        x: 4126
+        y: 52
+        width: 237
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2457026b1d41654cad2e970d424368a
+      internalID: 1009819932777425775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_17
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 52
+        width: 232
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354ba3ea91f71ab47902e9c23536d621
+      internalID: 3078007042030322411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_18
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 52
+        width: 228
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46407817c3522c4c86260c18286c979
+      internalID: -7879289433902655526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_19
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 52
+        width: 232
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8691e89569f84bb6ca537f2cd3ebe
+      internalID: 6491383451395179129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_20
+      rect:
+        serializedVersion: 2
+        x: 5747
+        y: 52
+        width: 235
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7d43854e4be345bf211dd04016574
+      internalID: -8020594357731987502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_21
+      rect:
+        serializedVersion: 2
+        x: 6153
+        y: 0
+        width: 237
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179df87979100e54eb039bb0d99d844b
+      internalID: 1858263263973908715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_22
+      rect:
+        serializedVersion: 2
+        x: 6558
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b09c161c7ba84bb436502b11afa52
+      internalID: 1753002842422305807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_23
+      rect:
+        serializedVersion: 2
+        x: 6964
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a847e4e643c148c46a373faf538500cc
+      internalID: 5233176517117108850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_24
+      rect:
+        serializedVersion: 2
+        x: 7374
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0774da76ed353dc42abb548d8b1e286e
+      internalID: -6692111201566016168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_25
+      rect:
+        serializedVersion: 2
+        x: 7737
+        y: 263
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480575ce63afac4980b0c8439fe7666
+      internalID: 5676659423766063143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_26
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 0
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa2560c8a4fd8a43b8c89c802693769
+      internalID: 6485565917166839988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_27
+      rect:
+        serializedVersion: 2
+        x: 8141
+        y: 266
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caaf8496c9444c49a76a7816e0a094a
+      internalID: 8392103665803051684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_28
+      rect:
+        serializedVersion: 2
+        x: 8185
+        y: 0
+        width: 246
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e72deebbcddc44698b1d865b848e46
+      internalID: 8229135588676225998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_29
+      rect:
+        serializedVersion: 2
+        x: 8548
+        y: 272
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae95b5b54520f34f9cceb0dd8f718d5
+      internalID: 3200226378138476918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_30
+      rect:
+        serializedVersion: 2
+        x: 8590
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792e049f476fff4baf994bf95d354e6
+      internalID: 1961526209903180182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_31
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 268
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a75a5935793e41949893b83f5ef66
+      internalID: 5682150188085470030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_32
+      rect:
+        serializedVersion: 2
+        x: 8995
+        y: 0
+        width: 247
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c010670b43174e99c42f739a2e122
+      internalID: -1206847468208659819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_33
+      rect:
+        serializedVersion: 2
+        x: 9358
+        y: 268
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e4bf62d303d84d999e99d0f0bd426
+      internalID: -5834269989637849592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_34
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 0
+        width: 249
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48967f6d6ac472c419e535440e35ee2d
+      internalID: 288517643873948348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_35
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a21ef90f7e82884f9a6c2f15802eafb
+      internalID: 6830341242388352919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_36
+      rect:
+        serializedVersion: 2
+        x: 9806
+        y: 0
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3a3bb2e28f4b498b07f2144793d86
+      internalID: 8041800097811037485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_37
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 264
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b622c45a37b6459f6f8fce1fbc0d9
+      internalID: -7004950050942807766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_38
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 258
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62d7a73bbd8274d80ad247fcf0dac7
+      internalID: -7295097858836180548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_39
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 257
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de92e684e822714cac1e6af71794c7d
+      internalID: 4885429313263834639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_40
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 256
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c64fe4c1598c24da4a07501e026cac
+      internalID: -2413301266003364404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_41
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8e7eb468575b44894d445d51cb2fa
+      internalID: -2001482441178225364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_42
+      rect:
+        serializedVersion: 2
+        x: 6922
+        y: 258
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f392ac674ceeed42b66f36f18dde18d
+      internalID: 3818874483283901834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_43
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16460ed9a5c8be74aa5a6a2a7b2076d7
+      internalID: -3978929026608401498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_44
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 252
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c33c778961780940805282c4ad8b69a
+      internalID: 9041082387479901067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_45
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 252
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98144c0cc6ac04fbae87313595549e
+      internalID: -4801448762112082942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_46
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 249
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c09ed4baf3d1a4eaf44c8e23a32297
+      internalID: 3085124583071348558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_47
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 252
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be788fa1f6b94c74981a13fad80801bd
+      internalID: -6093492902118075446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_48
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee34d34ea0c1b7479b7128934d5e2c5
+      internalID: -2064468761807487825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle celeste lado_49
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 257
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a08f81d41e260449bd5b9c447469f8
+      internalID: -8236638282680861260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

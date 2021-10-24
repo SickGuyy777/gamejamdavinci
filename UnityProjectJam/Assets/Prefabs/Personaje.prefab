@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 5305040082968789417}
   - component: {fileID: 5305040082968789418}
   - component: {fileID: -1470182332893128857}
-  - component: {fileID: 2643807012051144203}
+  - component: {fileID: 110262953}
   m_Layer: 0
-  m_Name: Personaje 3
+  m_Name: Personaje
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31,7 +31,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5305040082968789422}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.03, y: -4.48, z: 0}
+  m_LocalPosition: {x: -2.55, y: 0.35, z: 0}
   m_LocalScale: {x: 0.36315, y: 0.36315, z: 0.36315}
   m_Children: []
   m_Father: {fileID: 0}
@@ -75,7 +75,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: bc9449a38ad90914f90a724517585637, type: 3}
+  m_Sprite: {fileID: -3310633787525797498, guid: 42092df563d11034f9d027e953e8a464,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
   m_FlipY: 0
@@ -144,7 +145,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.12, y: 7.01}
+    oldSize: {x: 2.62, y: 3.5166016}
     newSize: {x: 5.12, y: 7.01}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -166,10 +167,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BaseTime: 7
-  PlayerNumber: 3
-  Target: {fileID: 0}
-  Cameraposition: {x: 0, y: 0, z: 0}
---- !u!114 &2643807012051144203
+  PlayerNumber: 1
+--- !u!114 &110262953
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -181,8 +180,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: baffd7766fa7a564aa137c5f76d359d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SkillCooldown: 2
+  SkillCooldown: 1
   SkillCurrentCooldown: 0
   Bullet: {fileID: 5158947919955132962, guid: 4cd336ef6dbae6a4a99afccaa807417a, type: 3}
   MeleeAttack: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
     type: 3}
+  SR: {fileID: 5305040082968789421}

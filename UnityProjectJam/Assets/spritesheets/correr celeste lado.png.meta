@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 9a119d2ccf697244cb828e9317149e50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4086107154720762671
+    second: correr celeste lado_0
+  - first:
+      213: -8904957022428766645
+    second: correr celeste lado_1
+  - first:
+      213: 7978072343356293045
+    second: correr celeste lado_2
+  - first:
+      213: 794045880583782997
+    second: correr celeste lado_3
+  - first:
+      213: 3163453229658702469
+    second: correr celeste lado_4
+  - first:
+      213: 9003683469333135981
+    second: correr celeste lado_5
+  - first:
+      213: 2741073020729556046
+    second: correr celeste lado_6
+  - first:
+      213: -6746353608452543417
+    second: correr celeste lado_7
+  - first:
+      213: -2424776307590840874
+    second: correr celeste lado_8
+  - first:
+      213: 4666476282241256969
+    second: correr celeste lado_9
+  - first:
+      213: -1933892124657676245
+    second: correr celeste lado_10
+  - first:
+      213: -6849902654028445093
+    second: correr celeste lado_11
+  - first:
+      213: -5128886482900411562
+    second: correr celeste lado_12
+  - first:
+      213: 3473447646685314411
+    second: correr celeste lado_13
+  - first:
+      213: 2507448239171066490
+    second: correr celeste lado_14
+  - first:
+      213: -6806915743461440388
+    second: correr celeste lado_15
+  - first:
+      213: -1961426907209416167
+    second: correr celeste lado_16
+  - first:
+      213: -5023017006944632756
+    second: correr celeste lado_17
+  - first:
+      213: -6235901327530996930
+    second: correr celeste lado_18
+  - first:
+      213: 3593615245737908575
+    second: correr celeste lado_19
+  - first:
+      213: 8953489890388467409
+    second: correr celeste lado_20
+  - first:
+      213: -7952790891770963736
+    second: correr celeste lado_21
+  - first:
+      213: 2899092195973914550
+    second: correr celeste lado_22
+  - first:
+      213: -8457444541153564751
+    second: correr celeste lado_23
+  - first:
+      213: 7070036059516118705
+    second: correr celeste lado_24
+  - first:
+      213: 3522347006398235823
+    second: correr celeste lado_25
+  - first:
+      213: -5782024105522512137
+    second: correr celeste lado_26
+  - first:
+      213: -2821243829080887364
+    second: correr celeste lado_27
+  - first:
+      213: 5259048990849503952
+    second: correr celeste lado_28
+  - first:
+      213: -4215000418079731348
+    second: correr celeste lado_29
+  - first:
+      213: 386620865462039345
+    second: correr celeste lado_30
+  - first:
+      213: 4677112404056637412
+    second: correr celeste lado_31
+  - first:
+      213: 5201354298228749678
+    second: correr celeste lado_32
+  - first:
+      213: 2208808482578471915
+    second: correr celeste lado_33
+  - first:
+      213: -2557227378716734161
+    second: correr celeste lado_34
+  - first:
+      213: -7058009758360670895
+    second: correr celeste lado_35
+  - first:
+      213: 3931040599084117320
+    second: correr celeste lado_36
+  - first:
+      213: -4899883230649552374
+    second: correr celeste lado_37
+  - first:
+      213: -6535721083041960418
+    second: correr celeste lado_38
+  - first:
+      213: 8794136429277148473
+    second: correr celeste lado_39
+  - first:
+      213: -8604605343007500322
+    second: correr celeste lado_40
+  - first:
+      213: -4041020532629338363
+    second: correr celeste lado_41
+  - first:
+      213: -6311080849346572431
+    second: correr celeste lado_42
+  - first:
+      213: 118592460852771632
+    second: correr celeste lado_43
+  - first:
+      213: 6755406993082723708
+    second: correr celeste lado_44
+  - first:
+      213: 627988652075191224
+    second: correr celeste lado_45
+  - first:
+      213: -6778462566887881949
+    second: correr celeste lado_46
+  - first:
+      213: 2001864320591721831
+    second: correr celeste lado_47
+  - first:
+      213: 8736934415859868941
+    second: correr celeste lado_48
+  - first:
+      213: 8134698589485866714
+    second: correr celeste lado_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correr celeste lado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e59636e35ec8a48a273def209040c2
+      internalID: -4086107154720762671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 331
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a66cb5d09cef64daa3ffef9448a7ae
+      internalID: -8904957022428766645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 268
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da08fe6432f028a48afb477a0496275c
+      internalID: 7978072343356293045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300a3266562ba04491ffccc05e92ff5
+      internalID: 794045880583782997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 268
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e180fd0156e9a47b973a5b1ed78b60
+      internalID: 3163453229658702469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_5
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 325
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e869b4560776748a71a025957aae8d
+      internalID: 9003683469333135981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_6
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 263
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d46f694189a74d9f3026b991aafe1
+      internalID: 2741073020729556046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_7
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0579e7efbb51c7647a74017732155f88
+      internalID: -6746353608452543417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_8
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 261
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a50c6ae422b0a4c9a46d20fc78eef7
+      internalID: -2424776307590840874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_9
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a060bf158c5c24ba7187e7cf322602
+      internalID: 4666476282241256969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_10
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 0
+        width: 326
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb533086a7bc41a4a8ea71207eb0f937
+      internalID: -1933892124657676245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_11
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 48
+        width: 326
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bd223bae9fd94d8888f6fcd46f7b4
+      internalID: -6849902654028445093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_12
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 0
+        width: 327
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d216d04653a1743804ea0508f5dd8e
+      internalID: -5128886482900411562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_13
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 326
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888bf41fb0cf5bf41b4aa32cdb404e87
+      internalID: 3473447646685314411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_14
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 263
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e8a8cac61ddf4090aa4375821d104
+      internalID: 2507448239171066490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_15
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371414062518a6849b0143fda53216cc
+      internalID: -6806915743461440388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_16
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 267
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2dc54b4c87294b828e51b51e731da
+      internalID: -1961426907209416167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_17
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab91bc27b98e4478750caba5e400b7
+      internalID: -5023017006944632756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_18
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 272
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62db280b292ee4eb9c2f1037ecb7a7
+      internalID: -6235901327530996930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_19
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff481d879e2954a8111f6441ea64f7
+      internalID: 3593615245737908575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_20
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f54a13e3abb8aa448e744777f5c8885
+      internalID: 8953489890388467409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_21
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 0
+        width: 322
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430f01654616894596a65dc4ef7a262
+      internalID: -7952790891770963736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_22
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 267
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff83915e7e4c4c40b6d46fbec94ec55
+      internalID: 2899092195973914550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_23
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 0
+        width: 325
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e37e5451798ab45ba9114d9b061d53
+      internalID: -8457444541153564751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_24
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 268
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf9ddab232bde498de8626c3e04022
+      internalID: 7070036059516118705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_25
+      rect:
+        serializedVersion: 2
+        x: 5757
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251e95cfa937f042a845ed4ceaddcf0
+      internalID: 3522347006398235823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_26
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 263
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d78ca8b865c168418a1f674302b56fd
+      internalID: -5782024105522512137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_27
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 0
+        width: 326
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc798ab7a27814d8f66da88a6083cc
+      internalID: -2821243829080887364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_28
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 0
+        width: 325
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6b94c0720237648b3df92918e6e7bd
+      internalID: 5259048990849503952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_29
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 0
+        width: 326
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9046048ae6aebb4ab5cae1ad335e9fb
+      internalID: -4215000418079731348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_30
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 0
+        width: 326
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503ec882bf4599479e495e7759d804e
+      internalID: 386620865462039345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_31
+      rect:
+        serializedVersion: 2
+        x: 7774
+        y: 57
+        width: 326
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d3e7b7096395408e27f6988a0a3fb
+      internalID: 4677112404056637412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_32
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 0
+        width: 326
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060401992664574eb24b2c57e6d3990
+      internalID: 5201354298228749678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_33
+      rect:
+        serializedVersion: 2
+        x: 8547
+        y: 263
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94458115a9bc624cb5e8317d73db7dc
+      internalID: 2208808482578471915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_34
+      rect:
+        serializedVersion: 2
+        x: 8590
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d0a188be05b74f83eff237b5808fe
+      internalID: -2557227378716734161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_35
+      rect:
+        serializedVersion: 2
+        x: 8995
+        y: 0
+        width: 322
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b2c338ac30bc448a8e06fa431338f
+      internalID: -7058009758360670895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_36
+      rect:
+        serializedVersion: 2
+        x: 9358
+        y: 272
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde46b97a8781544b4dbce772100ac3
+      internalID: 3931040599084117320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_37
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 0
+        width: 321
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1502e1499f6e1449da5b7169be43d0
+      internalID: -4899883230649552374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_38
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d021eae44c07fac4c866d0ffded4b0be
+      internalID: -6535721083041960418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_39
+      rect:
+        serializedVersion: 2
+        x: 9796
+        y: 0
+        width: 329
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ced85100785b41957ffe9ae745cbf
+      internalID: 8794136429277148473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_40
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 262
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da94592f918fa2428c50b74cbd05167
+      internalID: -8604605343007500322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_41
+      rect:
+        serializedVersion: 2
+        x: 6922
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67960cd9d68254dbf1d2b896ddec96
+      internalID: -4041020532629338363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_42
+      rect:
+        serializedVersion: 2
+        x: 8138
+        y: 262
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c0dedd684a846419bf3f4b857bc6a7
+      internalID: -6311080849346572431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_43
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659fb175c14aa08478d8abb38480ca02
+      internalID: 118592460852771632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_44
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a2881e719dbf4eb9338cfd6146fdb
+      internalID: 6755406993082723708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_45
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 257
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40faa3dc1541c4094624470e1156c2
+      internalID: 627988652075191224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_46
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7618f770419ea8446b332dcb7a78c059
+      internalID: -6778462566887881949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_47
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 258
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100487712859d234c905dd539ff7508b
+      internalID: 2001864320591721831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_48
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420eebd47acdcb4db4a152a7cd2ceba
+      internalID: 8736934415859868941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr celeste lado_49
+      rect:
+        serializedVersion: 2
+        x: 7731
+        y: 257
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5dce20008ddb64a90d2bea1a60ead3
+      internalID: 8134698589485866714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

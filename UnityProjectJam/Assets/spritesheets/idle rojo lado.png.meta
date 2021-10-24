@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: f090d7b1a4b4ccb40af3bd8295f805fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8919656848950153731
+    second: idle rojo lado_0
+  - first:
+      213: -3864478700750643649
+    second: idle rojo lado_1
+  - first:
+      213: 9090416332002000618
+    second: idle rojo lado_2
+  - first:
+      213: 1030253005628000773
+    second: idle rojo lado_3
+  - first:
+      213: 5950341992622827461
+    second: idle rojo lado_4
+  - first:
+      213: -6986629253049446455
+    second: idle rojo lado_5
+  - first:
+      213: -7215640397559800616
+    second: idle rojo lado_6
+  - first:
+      213: 6334361005528905854
+    second: idle rojo lado_7
+  - first:
+      213: -8153495523861309485
+    second: idle rojo lado_8
+  - first:
+      213: -39592850907405315
+    second: idle rojo lado_9
+  - first:
+      213: -7527836844851863036
+    second: idle rojo lado_10
+  - first:
+      213: 8297450373641536125
+    second: idle rojo lado_11
+  - first:
+      213: -2973779893581739380
+    second: idle rojo lado_12
+  - first:
+      213: -365165032640945560
+    second: idle rojo lado_13
+  - first:
+      213: -878223644608602544
+    second: idle rojo lado_14
+  - first:
+      213: -906174444749781348
+    second: idle rojo lado_15
+  - first:
+      213: 993135182206212240
+    second: idle rojo lado_16
+  - first:
+      213: 2508274458666764965
+    second: idle rojo lado_17
+  - first:
+      213: 8480087808699705158
+    second: idle rojo lado_18
+  - first:
+      213: -8523407418221993304
+    second: idle rojo lado_19
+  - first:
+      213: 3093282363934439984
+    second: idle rojo lado_20
+  - first:
+      213: -3392033913593894431
+    second: idle rojo lado_21
+  - first:
+      213: 2848267483714713649
+    second: idle rojo lado_22
+  - first:
+      213: 5529561736058389735
+    second: idle rojo lado_23
+  - first:
+      213: 1923565142654744487
+    second: idle rojo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle rojo lado_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 263
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f7fafc14cc5c49ba476bb8ccac813
+      internalID: 8919656848950153731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 14
+        width: 268
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f77871ebda954f93a6e223f8fa199
+      internalID: -3864478700750643649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_2
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 14
+        width: 264
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0761ebb51f249f49bd0a79d800ec766
+      internalID: 9090416332002000618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 14
+        width: 263
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24611fd12f4e449b647ec13f9a59d6
+      internalID: 1030253005628000773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 14
+        width: 269
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e028a7d3b2908c499d1564c5ee63c27
+      internalID: 5950341992622827461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_5
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 14
+        width: 269
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ee92129c7deb42acb9e74dbc9bf86
+      internalID: -6986629253049446455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_6
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 14
+        width: 269
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab942139dde93740bcc48252422a508
+      internalID: -7215640397559800616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_7
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 14
+        width: 269
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773292f382519fc47a61b8df10749271
+      internalID: 6334361005528905854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_8
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 14
+        width: 274
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee3704081390445b5d0fd22f8eadca
+      internalID: -8153495523861309485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_9
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 14
+        width: 275
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab75dbb5558d3c44bc89dcf32f60d57
+      internalID: -39592850907405315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_10
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 14
+        width: 277
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419197c225ef03428c7f63baf0f0aa9
+      internalID: -7527836844851863036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_11
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 14
+        width: 280
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7833b4900f9453343b097ad79b2e26e1
+      internalID: 8297450373641536125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_12
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 14
+        width: 280
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04e6b329209c543bc781871e08455c
+      internalID: -2973779893581739380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_13
+      rect:
+        serializedVersion: 2
+        x: 6127
+        y: 14
+        width: 280
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57dfd5fbb088a34ea4d778c1de341f1
+      internalID: -365165032640945560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_14
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 14
+        width: 275
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee186a9761ab5d47a41b4ee35c09423
+      internalID: -878223644608602544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_15
+      rect:
+        serializedVersion: 2
+        x: 7046
+        y: 14
+        width: 274
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891eba577b422f4aa3cf824f3e1e678
+      internalID: -906174444749781348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_16
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 14
+        width: 274
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd28cc9384b3bd4ba5b7895490e30d6
+      internalID: 993135182206212240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_17
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 14
+        width: 274
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb66da00c761e24ebbbfff72bf7f5d1
+      internalID: 2508274458666764965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_18
+      rect:
+        serializedVersion: 2
+        x: 8419
+        y: 14
+        width: 268
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da7961f876d9d4fba466b8aa5206fb
+      internalID: 8480087808699705158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_19
+      rect:
+        serializedVersion: 2
+        x: 8873
+        y: 14
+        width: 268
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b8375231c74e249a0ae366cc1ea007
+      internalID: -8523407418221993304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_20
+      rect:
+        serializedVersion: 2
+        x: 9332
+        y: 14
+        width: 268
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29eb2a6dce1884b9a07e493787afdc
+      internalID: 3093282363934439984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_21
+      rect:
+        serializedVersion: 2
+        x: 9787
+        y: 14
+        width: 268
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134664f6b2bf2974f95d33b899f03afe
+      internalID: -3392033913593894431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_22
+      rect:
+        serializedVersion: 2
+        x: 10245
+        y: 14
+        width: 263
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf71df783ec283468908f8a3eff05e3
+      internalID: 2848267483714713649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_23
+      rect:
+        serializedVersion: 2
+        x: 10705
+        y: 14
+        width: 263
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f86753087723a4e9d96e7766babae8
+      internalID: 5529561736058389735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle rojo lado_24
+      rect:
+        serializedVersion: 2
+        x: 11159
+        y: 14
+        width: 263
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e27bf891976684ea52309084193eb1
+      internalID: 1923565142654744487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

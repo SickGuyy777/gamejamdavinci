@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 42092df563d11034f9d027e953e8a464
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3310633787525797498
+    second: idle amarillo lado_0
+  - first:
+      213: -8923989414368717857
+    second: idle amarillo lado_1
+  - first:
+      213: -8042513359640261537
+    second: idle amarillo lado_2
+  - first:
+      213: -2462887929173213496
+    second: idle amarillo lado_3
+  - first:
+      213: 8485463632936312538
+    second: idle amarillo lado_4
+  - first:
+      213: 8150343735176947420
+    second: idle amarillo lado_5
+  - first:
+      213: 4009054483624567382
+    second: idle amarillo lado_6
+  - first:
+      213: -8661156966132629900
+    second: idle amarillo lado_7
+  - first:
+      213: -8950797692298166587
+    second: idle amarillo lado_8
+  - first:
+      213: 4546622166188184444
+    second: idle amarillo lado_9
+  - first:
+      213: -3667657330542923255
+    second: idle amarillo lado_10
+  - first:
+      213: -7991136030381381801
+    second: idle amarillo lado_11
+  - first:
+      213: -1605187858520633795
+    second: idle amarillo lado_12
+  - first:
+      213: -5134451233823823305
+    second: idle amarillo lado_13
+  - first:
+      213: 1379859336983549025
+    second: idle amarillo lado_14
+  - first:
+      213: -8696811655376042722
+    second: idle amarillo lado_15
+  - first:
+      213: -5213292457922268161
+    second: idle amarillo lado_16
+  - first:
+      213: -7214418047719419424
+    second: idle amarillo lado_17
+  - first:
+      213: 4728320616873908822
+    second: idle amarillo lado_18
+  - first:
+      213: 1153385068327537210
+    second: idle amarillo lado_19
+  - first:
+      213: -5986735776447312405
+    second: idle amarillo lado_20
+  - first:
+      213: 4850400845056217518
+    second: idle amarillo lado_21
+  - first:
+      213: 7281049331082235773
+    second: idle amarillo lado_22
+  - first:
+      213: -3741694971978920901
+    second: idle amarillo lado_23
+  - first:
+      213: -2663464926787985810
+    second: idle amarillo lado_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle amarillo lado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 262
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8084627b1c1f45949f7fac7b16a43
+      internalID: -3310633787525797498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 257
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a993d9a8a4283040bec88daa1c6746a
+      internalID: -8923989414368717857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 257
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c253faae3b1543409945c9c12282785
+      internalID: -8042513359640261537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 250
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f2701ae79e4e44a627551fe5f1580
+      internalID: -2462887929173213496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 247
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a443c409cd376748a8cb2c3bf04e3a1
+      internalID: 8485463632936312538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_5
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 243
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8bac10d2eb3344978711eeea137f5
+      internalID: 8150343735176947420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_6
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 0
+        width: 240
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a61f9c9490b204eb4bf8b734e55b22
+      internalID: 4009054483624567382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_7
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 233
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526bb46cad4677d4080d72b3f9cd46fd
+      internalID: -8661156966132629900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_8
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2
+        width: 230
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7fab6cb1ff03343bc6e234bb823e8d
+      internalID: -8950797692298166587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_9
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 2
+        width: 230
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2b5369d9f792c4c906ad0647dbe3b1
+      internalID: 4546622166188184444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_10
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 2
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f54378d932ec74bb0edc31b6a34573
+      internalID: -3667657330542923255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_11
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2
+        width: 220
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d530eed1d90221409cde3dc81ee2086
+      internalID: -7991136030381381801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_12
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 0
+        width: 217
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0ba1640434984a88b39b03c159143
+      internalID: -1605187858520633795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_13
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2
+        width: 220
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b3b0f435d35240944e4426d026c98
+      internalID: -5134451233823823305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_14
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 0
+        width: 226
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380eaf18820f232418a2ecacc46d55c1
+      internalID: 1379859336983549025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_15
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 0
+        width: 226
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ccc8882c02ca43a576a7d0030beab
+      internalID: -8696811655376042722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_16
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2
+        width: 233
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b709784e30bd428f5f46d8b5dd314
+      internalID: -5213292457922268161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_17
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 2
+        width: 233
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6b87a98cbc9a408e45156e85078fa
+      internalID: -7214418047719419424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_18
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 0
+        width: 240
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6518f5b77c9fdb94bbb4a1505e17fed4
+      internalID: 4728320616873908822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_19
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 0
+        width: 243
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592ac10a6055b094facb30870e844e02
+      internalID: 1153385068327537210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_20
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 0
+        width: 247
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e3e97fed60b444f88e34410c2a3208
+      internalID: -5986735776447312405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_21
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 0
+        width: 253
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5042ab8f475c6974cb8cb9ec1474df4b
+      internalID: 4850400845056217518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_22
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 0
+        width: 256
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53590a26d4761843a2bcf90e371f209
+      internalID: 7281049331082235773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_23
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 0
+        width: 260
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120c1b49ff15eb4e80b4cebe1b11f0a
+      internalID: -3741694971978920901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle amarillo lado_24
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 0
+        width: 279
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875fab737a65d4458d54c2c1ec2c554
+      internalID: -2663464926787985810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
