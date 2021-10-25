@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: be45a8359081c8440ba023740899e410
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4448943729094959944
+    second: muerto naranja_0
+  - first:
+      213: -5573355683148810764
+    second: muerto naranja_1
+  - first:
+      213: -2961909352364967496
+    second: muerto naranja_2
+  - first:
+      213: 4339711461287413144
+    second: muerto naranja_3
+  - first:
+      213: -5556544671542842555
+    second: muerto naranja_4
+  - first:
+      213: 6230546914904437589
+    second: muerto naranja_5
+  - first:
+      213: 513575834787557711
+    second: muerto naranja_6
+  - first:
+      213: -5827423944297660926
+    second: muerto naranja_7
+  - first:
+      213: -5682517767567346009
+    second: muerto naranja_8
+  - first:
+      213: -6709900580025138302
+    second: muerto naranja_9
+  - first:
+      213: 2500966278076584518
+    second: muerto naranja_10
+  - first:
+      213: 7151970526991880136
+    second: muerto naranja_11
+  - first:
+      213: -9034139455098828498
+    second: muerto naranja_12
+  - first:
+      213: 1180079163386135369
+    second: muerto naranja_13
+  - first:
+      213: -7163473715938462323
+    second: muerto naranja_14
+  - first:
+      213: 488504945021683824
+    second: muerto naranja_15
+  - first:
+      213: 595289232402811047
+    second: muerto naranja_16
+  - first:
+      213: 910701800886622599
+    second: muerto naranja_17
+  - first:
+      213: 5106315844213482338
+    second: muerto naranja_18
+  - first:
+      213: -5213243662909712913
+    second: muerto naranja_19
+  - first:
+      213: 354591780574273467
+    second: muerto naranja_20
+  - first:
+      213: 7238308791958017480
+    second: muerto naranja_21
+  - first:
+      213: 6737982791656447847
+    second: muerto naranja_22
+  - first:
+      213: 2105546263126541533
+    second: muerto naranja_23
+  - first:
+      213: 2997615057311358906
+    second: muerto naranja_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerto naranja_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 31
+        width: 282
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03bb94d0004de74897de81e68c66964
+      internalID: 4448943729094959944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 26
+        width: 278
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83dbd38ec391814795f9cf8882481a0
+      internalID: -5573355683148810764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 21
+        width: 268
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb5e012402ebb4080a950295ba9a35
+      internalID: -2961909352364967496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_3
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 15
+        width: 257
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a104947b11f54040bc5b9eaa79f4cb0
+      internalID: 4339711461287413144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_4
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 15
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450ea1f894ea4774895c1b132e002850
+      internalID: -5556544671542842555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_5
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 10
+        width: 246
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513c0e21c832e7142b07a7b86763587d
+      internalID: 6230546914904437589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_6
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 5
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109bc1fc081bbb74585e641116969965
+      internalID: 513575834787557711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_7
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 5
+        width: 237
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df7f5a26d934849a88276cf156b4c5
+      internalID: -5827423944297660926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_8
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 5
+        width: 232
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3017c3e5c87ae4ca2d14af4dbd60cb
+      internalID: -5682517767567346009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_9
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 0
+        width: 226
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1c094baf1b1546a8ce988bd742f8a
+      internalID: -6709900580025138302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_10
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 0
+        width: 226
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f5d6803ea9204d81c0cfda48e7f1e
+      internalID: 2500966278076584518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_11
+      rect:
+        serializedVersion: 2
+        x: 4743
+        y: 0
+        width: 221
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11ca08638a161428f8b95e2a042cf5
+      internalID: 7151970526991880136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_12
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 5
+        width: 232
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883679c21cb15c647b899d60af9e9aa3
+      internalID: -9034139455098828498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_13
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 0
+        width: 221
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3596ca0cbfb7c4e9f0780bf3198b68
+      internalID: 1180079163386135369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_14
+      rect:
+        serializedVersion: 2
+        x: 5977
+        y: 5
+        width: 252
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c9ec8fe4b81e4e98eceee9bd432e2
+      internalID: -7163473715938462323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_15
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 10
+        width: 277
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52a43245af47b42b9360721739b660
+      internalID: 488504945021683824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_16
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 15
+        width: 293
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db064c6b15cc68e4287ed1a51b995ff7
+      internalID: 595289232402811047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_17
+      rect:
+        serializedVersion: 2
+        x: 7190
+        y: 21
+        width: 313
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d916c3b075a74fb458b1f5c9c8b7b944
+      internalID: 910701800886622599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_18
+      rect:
+        serializedVersion: 2
+        x: 7601
+        y: 21
+        width: 329
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625274a483f0e344b841a289ccc57e6b
+      internalID: 5106315844213482338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_19
+      rect:
+        serializedVersion: 2
+        x: 8017
+        y: 26
+        width: 334
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205cc4202b94ee47afa2503e18c9748
+      internalID: -5213243662909712913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_20
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 26
+        width: 345
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5f9a8c54e95c41b9f8c7bfef295d6
+      internalID: 354591780574273467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_21
+      rect:
+        serializedVersion: 2
+        x: 8855
+        y: 26
+        width: 349
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa8c6c67924cc43a9b0ea7e830f17b
+      internalID: 7238308791958017480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_22
+      rect:
+        serializedVersion: 2
+        x: 9276
+        y: 26
+        width: 350
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a093b47c0ff4cdd448438ecd5fedecb9
+      internalID: 6737982791656447847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_23
+      rect:
+        serializedVersion: 2
+        x: 9703
+        y: 21
+        width: 349
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b3de0de4fdd54d9fca8c474d97d5a
+      internalID: 2105546263126541533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerto naranja_24
+      rect:
+        serializedVersion: 2
+        x: 10129
+        y: 15
+        width: 345
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46d471ab51b22418f50c0bb3813df4
+      internalID: 2997615057311358906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

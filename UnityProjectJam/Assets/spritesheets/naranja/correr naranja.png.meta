@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: f864d6239b8e8bc4386700f9d6e0d2b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5105594654905984785
+    second: correr naranja_0
+  - first:
+      213: -7419459729330803704
+    second: correr naranja_1
+  - first:
+      213: 530715709465712290
+    second: correr naranja_2
+  - first:
+      213: -1169882825496183336
+    second: correr naranja_3
+  - first:
+      213: 7623275049873089786
+    second: correr naranja_4
+  - first:
+      213: -4539577815308573627
+    second: correr naranja_5
+  - first:
+      213: 8787605003164538275
+    second: correr naranja_6
+  - first:
+      213: 4568165097383102771
+    second: correr naranja_7
+  - first:
+      213: 310601197187929800
+    second: correr naranja_8
+  - first:
+      213: 7696624786058444996
+    second: correr naranja_9
+  - first:
+      213: 1606415837078797178
+    second: correr naranja_10
+  - first:
+      213: 8837498900125330578
+    second: correr naranja_11
+  - first:
+      213: 6692491694688038148
+    second: correr naranja_12
+  - first:
+      213: -1789590438055542681
+    second: correr naranja_13
+  - first:
+      213: 5771237572648651466
+    second: correr naranja_14
+  - first:
+      213: -7347188938399605641
+    second: correr naranja_15
+  - first:
+      213: 9052003229248493266
+    second: correr naranja_16
+  - first:
+      213: 3913616848516609360
+    second: correr naranja_17
+  - first:
+      213: 7485274913478206496
+    second: correr naranja_18
+  - first:
+      213: -4437876017646996287
+    second: correr naranja_19
+  - first:
+      213: 9083602628246856283
+    second: correr naranja_20
+  - first:
+      213: 8310510362589679598
+    second: correr naranja_21
+  - first:
+      213: 8947672734705304687
+    second: correr naranja_22
+  - first:
+      213: 1088885015861080524
+    second: correr naranja_23
+  - first:
+      213: -361632637845958190
+    second: correr naranja_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correr naranja_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 57
+        width: 339
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c753f597d3374b80d7cf09742c412
+      internalID: 5105594654905984785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 51
+        width: 308
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7f8be3376e0e4bb6fb6a79bc57754
+      internalID: -7419459729330803704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 41
+        width: 277
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4995cc08451ab7f47869f83f5d7664f0
+      internalID: 530715709465712290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_3
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 46
+        width: 293
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c80fc6d67ce9945abcf9e61469046d
+      internalID: -1169882825496183336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_4
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 36
+        width: 262
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5fec67253975341bca396ff691626a
+      internalID: 7623275049873089786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_5
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 26
+        width: 241
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa515ecaaaf0641980d8a3588f11f8
+      internalID: -4539577815308573627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_6
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 21
+        width: 216
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecc783001e2e5247bcb6da212aca201
+      internalID: 8787605003164538275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_7
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 26
+        width: 205
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ef97960abc034a9722e584a04c54c
+      internalID: 4568165097383102771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_8
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 36
+        width: 201
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f95f893dcad6354293b4cb70d9cc48f
+      internalID: 310601197187929800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_9
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 46
+        width: 205
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e087d0a38a01542871607d794557c4
+      internalID: 7696624786058444996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_10
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 46
+        width: 216
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ef273007d9f849a01f03afeed7f83
+      internalID: 1606415837078797178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_11
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 46
+        width: 226
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad52b08bbb54544e8cd1654908b5938
+      internalID: 8837498900125330578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_12
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 46
+        width: 241
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0033d0a5ed424f9f7959ec71e55e4
+      internalID: 6692491694688038148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_13
+      rect:
+        serializedVersion: 2
+        x: 5627
+        y: 41
+        width: 227
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02eed328f4ad645874e7bd420d3aaa
+      internalID: -1789590438055542681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_14
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 36
+        width: 221
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f105fa1b37bf5c499dceaac66e48122
+      internalID: 5771237572648651466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_15
+      rect:
+        serializedVersion: 2
+        x: 6470
+        y: 31
+        width: 206
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45faf78f581a7974fbcbacedb767789c
+      internalID: -7347188938399605641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_16
+      rect:
+        serializedVersion: 2
+        x: 6886
+        y: 26
+        width: 206
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acca6945fdbe0e4438a0da5d4c27aacf
+      internalID: 9052003229248493266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_17
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 21
+        width: 205
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969a38ba7669ba4ab70ab30e1760ec2
+      internalID: 3913616848516609360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_18
+      rect:
+        serializedVersion: 2
+        x: 7724
+        y: 15
+        width: 216
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d5ca6e9228d44e8f5e42571429a2c
+      internalID: 7485274913478206496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_19
+      rect:
+        serializedVersion: 2
+        x: 8130
+        y: 15
+        width: 242
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea05a64bfdce48468d6f7476ca20172
+      internalID: -4437876017646996287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_20
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 26
+        width: 262
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37278398cb2d1ae4fa4c3aa5653a8202
+      internalID: 9083602628246856283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_21
+      rect:
+        serializedVersion: 2
+        x: 8952
+        y: 41
+        width: 273
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2312d68e2e734494c817bd6d307f7b34
+      internalID: 8310510362589679598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_22
+      rect:
+        serializedVersion: 2
+        x: 9364
+        y: 57
+        width: 287
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27544c38cf88a6840979fb1b1f7e9df8
+      internalID: 8947672734705304687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_23
+      rect:
+        serializedVersion: 2
+        x: 9775
+        y: 57
+        width: 308
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bd24837ab0889499687f55d73f84ba
+      internalID: 1088885015861080524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr naranja_24
+      rect:
+        serializedVersion: 2
+        x: 10186
+        y: 57
+        width: 339
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880595bf5b42ff42963127767067711
+      internalID: -361632637845958190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 26ca7fd6af9c12540bbfec91a9947d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6522161609349020136
+    second: corre violeta_0
+  - first:
+      213: 4516686462729906203
+    second: corre violeta_1
+  - first:
+      213: 281902453615284118
+    second: corre violeta_2
+  - first:
+      213: -5173440016613905343
+    second: corre violeta_3
+  - first:
+      213: -2332322414770983015
+    second: corre violeta_4
+  - first:
+      213: -6845327067196344788
+    second: corre violeta_5
+  - first:
+      213: 4916972210930494863
+    second: corre violeta_6
+  - first:
+      213: -4486499407103199365
+    second: corre violeta_7
+  - first:
+      213: 7529427710748210100
+    second: corre violeta_8
+  - first:
+      213: -7544631267617354916
+    second: corre violeta_9
+  - first:
+      213: 2187051004139726888
+    second: corre violeta_10
+  - first:
+      213: -6949589088015195865
+    second: corre violeta_11
+  - first:
+      213: -8183409915554553605
+    second: corre violeta_12
+  - first:
+      213: -1424648321829911918
+    second: corre violeta_13
+  - first:
+      213: 6731484948715689756
+    second: corre violeta_14
+  - first:
+      213: -3524530155715417583
+    second: corre violeta_15
+  - first:
+      213: -1237645160269255673
+    second: corre violeta_16
+  - first:
+      213: -9114440542679260872
+    second: corre violeta_17
+  - first:
+      213: -3856474362408363334
+    second: corre violeta_18
+  - first:
+      213: 6034031141839408603
+    second: corre violeta_19
+  - first:
+      213: -8130479110790751559
+    second: corre violeta_20
+  - first:
+      213: 3178711791112242953
+    second: corre violeta_21
+  - first:
+      213: -5195534128424851292
+    second: corre violeta_22
+  - first:
+      213: -4858417194265667164
+    second: corre violeta_23
+  - first:
+      213: 4981689239852415892
+    second: corre violeta_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corre violeta_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 278
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99735977a754d040a1480b66c418587
+      internalID: 6522161609349020136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 59
+        width: 264
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b16bf656f1f4488da02d23ac9a938
+      internalID: 4516686462729906203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 50
+        width: 246
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7161443c20314478c8e063b9ca8ec6
+      internalID: 281902453615284118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_3
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 46
+        width: 228
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13705df0bbe064f9d82a6807ddd3af
+      internalID: -5173440016613905343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_4
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 41
+        width: 214
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd7d885eff8e64aaea1b83d9f6e43d
+      internalID: -2332322414770983015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_5
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 36
+        width: 209
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb76f83edc773b4585c14846a5ee84d
+      internalID: -6845327067196344788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_6
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 32
+        width: 219
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e71e5b7e24d54aa76c463b8ced59a
+      internalID: 4916972210930494863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_7
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 27
+        width: 209
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e84fecc77f770f4db180fe39fdbe1a0
+      internalID: -4486499407103199365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 41
+        width: 223
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbd0880d8173d45b00f71a31fd0023
+      internalID: 7529427710748210100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_9
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 50
+        width: 251
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ec1bcbe6e3ba4fb5352b1c3893e38
+      internalID: -7544631267617354916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_10
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 59
+        width: 269
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6bba9c079bd2c4da4a2afc7840b7a7
+      internalID: 2187051004139726888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_11
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 68
+        width: 278
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4117b3b428809634d861c26c25773021
+      internalID: -6949589088015195865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_12
+      rect:
+        serializedVersion: 2
+        x: 4540
+        y: 64
+        width: 277
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649aa7f25213c9c4bb2d2714478bc3ac
+      internalID: -8183409915554553605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_13
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 73
+        width: 291
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983e7416bb817c43866ea16087e1710
+      internalID: -1424648321829911918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_14
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 55
+        width: 250
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7120eca257034981f65da5f19b92e
+      internalID: 6731484948715689756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_15
+      rect:
+        serializedVersion: 2
+        x: 5669
+        y: 59
+        width: 264
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f6c430a228784aa016ae912e1a7fd
+      internalID: -3524530155715417583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_16
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 46
+        width: 233
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83459ed55fc45f04083e2866e10f6f24
+      internalID: -1237645160269255673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_17
+      rect:
+        serializedVersion: 2
+        x: 6447
+        y: 41
+        width: 228
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe14076a37acddd46a847a8a43b60dc3
+      internalID: -9114440542679260872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_18
+      rect:
+        serializedVersion: 2
+        x: 6834
+        y: 36
+        width: 210
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd67111e480ef3f48a6274761d3bfdc7
+      internalID: -3856474362408363334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_19
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 36
+        width: 205
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50c495d971beb4fb16732998560d40
+      internalID: 6034031141839408603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_20
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 36
+        width: 200
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc90084aa53c4d439ba37f51acae35b
+      internalID: -8130479110790751559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_21
+      rect:
+        serializedVersion: 2
+        x: 7945
+        y: 36
+        width: 210
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b18c1218b924040a6a73f4e45539b9
+      internalID: 3178711791112242953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_22
+      rect:
+        serializedVersion: 2
+        x: 8305
+        y: 46
+        width: 228
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6fe613c0aa4041b97c701fdfbaad6
+      internalID: -5195534128424851292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_23
+      rect:
+        serializedVersion: 2
+        x: 8665
+        y: 55
+        width: 255
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c63cf16503ac4e8cd595809837f12
+      internalID: -4858417194265667164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corre violeta_24
+      rect:
+        serializedVersion: 2
+        x: 9029
+        y: 64
+        width: 278
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aabecb7c633d549a7461b719820f48
+      internalID: 4981689239852415892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
