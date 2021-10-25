@@ -5,8 +5,6 @@ using UnityEngine;
 public class TurnSystem : MonoBehaviour
 {
     public static int CharacterPlaying;
-    public static float Timer;
-    public float BaseTime;
     public int PlayerNumber;
     private GameObject Target;
     private Vector3 Cameraposition;
@@ -22,9 +20,10 @@ public class TurnSystem : MonoBehaviour
         Cameraposition.x = transform.position.x;
         Cameraposition.y = transform.position.y;
         Cameraposition.z = -10;
-        Timer -= Time.deltaTime;
-        if (CharacterPlaying == 8) { CharacterPlaying = 0;}
-        if (Timer <= 0) { CharacterPlaying += 1; Timer = BaseTime; }
+        if (CharacterPlaying == 0) { CharacterPlaying = 7; }
+        if (CharacterPlaying == 8) { CharacterPlaying = 1;}
+        if (Input.GetKeyDown("c")) { CharacterPlaying += 1;}
+        if (Input.GetKeyDown("x")) { CharacterPlaying -= 1; }
         if (CharacterPlaying != PlayerNumber) {GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false; }
         if (CharacterPlaying == PlayerNumber) { GetComponent<CharacterMovement>().enabled = true; GetComponent<Skills>().enabled = true; Target.transform.position = Cameraposition; }
         if (CharacterPlaying == 8) { CharacterPlaying = 1; }
