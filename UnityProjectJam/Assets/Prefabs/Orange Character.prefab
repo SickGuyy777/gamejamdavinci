@@ -183,7 +183,10 @@ MonoBehaviour:
   SkillCooldown: 1
   SkillCurrentCooldown: 0
   Bullet: {fileID: 5158947919955132962, guid: 4cd336ef6dbae6a4a99afccaa807417a, type: 3}
+  PurpleBullet: {fileID: 0}
   MeleeAttack: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
+    type: 3}
+  OrangeBullet: {fileID: 5158947919955132962, guid: cb0ea992fe353f24ea69c85559ee768e,
     type: 3}
   SR: {fileID: 4726121201461439775}
 --- !u!95 &1560800922911506233
