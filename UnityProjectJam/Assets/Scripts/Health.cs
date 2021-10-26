@@ -6,11 +6,12 @@ public class Health : MonoBehaviour
 {
     public int BaseHealth;
     public int CurrentHealth;
+    private Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -26,7 +27,8 @@ public class Health : MonoBehaviour
     public void ReceiveDamage (int DamageReceived)
     {
         CurrentHealth -= DamageReceived;
-        if (CurrentHealth <= 0) { Destroy(this.gameObject); }
+        if (CurrentHealth <= 0) { animator.SetBool("Death", true); }
+        if (CurrentHealth > 0) { animator.SetBool("Death", false); }
 
     }
 }

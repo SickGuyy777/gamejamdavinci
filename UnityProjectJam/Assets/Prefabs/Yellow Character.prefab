@@ -17,8 +17,8 @@ GameObject:
   - component: {fileID: -1470182332893128857}
   - component: {fileID: 110262953}
   - component: {fileID: 2134939058065937291}
-  m_Layer: 9
-  m_Name: Personaje
+  m_Layer: 14
+  m_Name: Yellow Character
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

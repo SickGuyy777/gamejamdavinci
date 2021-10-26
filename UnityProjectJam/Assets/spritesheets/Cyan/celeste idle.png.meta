@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: 5b33ae959b2d05c439625bef606bd2b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3412018551909485827
+    second: celeste idle_0
+  - first:
+      213: -2979477487729034845
+    second: celeste idle_1
+  - first:
+      213: -4668570939057284900
+    second: celeste idle_2
+  - first:
+      213: -5235563175395972893
+    second: celeste idle_3
+  - first:
+      213: -8071713161856607603
+    second: celeste idle_4
+  - first:
+      213: 1104294143415688742
+    second: celeste idle_5
+  - first:
+      213: 3160842727156708876
+    second: celeste idle_6
+  - first:
+      213: 7951913223257784299
+    second: celeste idle_7
+  - first:
+      213: -7324288667952043741
+    second: celeste idle_8
+  - first:
+      213: 718496931159349693
+    second: celeste idle_9
+  - first:
+      213: 4515980350548355771
+    second: celeste idle_10
+  - first:
+      213: -5142739467189101921
+    second: celeste idle_11
+  - first:
+      213: -8860052323960855835
+    second: celeste idle_12
+  - first:
+      213: -1163107623071474193
+    second: celeste idle_13
+  - first:
+      213: -1940942323413100753
+    second: celeste idle_14
+  - first:
+      213: -636628067794653378
+    second: celeste idle_15
+  - first:
+      213: -6415925992375331451
+    second: celeste idle_16
+  - first:
+      213: -4591082487528668487
+    second: celeste idle_17
+  - first:
+      213: 5735253053615337060
+    second: celeste idle_18
+  - first:
+      213: 2878501915947019044
+    second: celeste idle_19
+  - first:
+      213: 1357287960794217802
+    second: celeste idle_20
+  - first:
+      213: 5117555807770186746
+    second: celeste idle_21
+  - first:
+      213: -789360452446410416
+    second: celeste idle_22
+  - first:
+      213: 1917749758712127870
+    second: celeste idle_23
+  - first:
+      213: 9203930104204105187
+    second: celeste idle_24
+  - first:
+      213: 8225659149530229095
+    second: celeste idle_25
+  - first:
+      213: 7343478449299162252
+    second: celeste idle_26
+  - first:
+      213: 3047169001770516612
+    second: celeste idle_27
+  - first:
+      213: 4801116489588980126
+    second: celeste idle_28
+  - first:
+      213: 3348656529197704890
+    second: celeste idle_29
+  - first:
+      213: -5859403388971610702
+    second: celeste idle_30
+  - first:
+      213: 4522744767685915083
+    second: celeste idle_31
+  - first:
+      213: 3292163418370624184
+    second: celeste idle_32
+  - first:
+      213: -2167562898626903190
+    second: celeste idle_33
+  - first:
+      213: 7257560436522942924
+    second: celeste idle_34
+  - first:
+      213: -6877014221385468524
+    second: celeste idle_35
+  - first:
+      213: 2643168704695054522
+    second: celeste idle_36
+  - first:
+      213: -9158033215806369628
+    second: celeste idle_37
+  - first:
+      213: -5110325271671404005
+    second: celeste idle_38
+  - first:
+      213: 6988034671560021070
+    second: celeste idle_39
+  - first:
+      213: 3566743596134198634
+    second: celeste idle_40
+  - first:
+      213: 2344739452154242845
+    second: celeste idle_41
+  - first:
+      213: -8724015007127947651
+    second: celeste idle_42
+  - first:
+      213: -3243571165366273161
+    second: celeste idle_43
+  - first:
+      213: 5354336370773745839
+    second: celeste idle_44
+  - first:
+      213: -3770440951084097855
+    second: celeste idle_45
+  - first:
+      213: 8553979739321989853
+    second: celeste idle_46
+  - first:
+      213: -8090383112531554838
+    second: celeste idle_47
+  - first:
+      213: 6350399575761633736
+    second: celeste idle_48
+  - first:
+      213: -3734987789789393070
+    second: celeste idle_49
+  - first:
+      213: -5225323468160147710
+    second: celeste idle_50
+  - first:
+      213: 969495408995280129
+    second: celeste idle_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celeste idle_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 273
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496211f3a1ac8a4080dac1d91bcb4a2
+      internalID: -3412018551909485827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 57
+        width: 252
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a98566d8e77a43888f58d0d85b621
+      internalID: -2979477487729034845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 273
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b99d327368d904e9d0728c44617cf3
+      internalID: -4668570939057284900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 57
+        width: 246
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f12975591ced7c4785c7dfa9229db7c
+      internalID: -5235563175395972893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_4
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 268
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14866eb6253fe8479778658d13904c5
+      internalID: -8071713161856607603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 57
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8119f28061565874a8f0914c94ff0750
+      internalID: 1104294143415688742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_6
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 57
+        width: 247
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e119fc2954fd4bbd0e86792775b92
+      internalID: 3160842727156708876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_7
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 57
+        width: 242
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ada7d8ae2186b4ab53c1fd0e848d7e
+      internalID: 7951913223257784299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_8
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 57
+        width: 242
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d90120dd693b34f80d44ef69b4750c
+      internalID: -7324288667952043741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_9
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 57
+        width: 237
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f5a565f75f224ea9dc190e9e98388
+      internalID: 718496931159349693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_10
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 57
+        width: 232
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a7bb91b6113548adf6b7d38075019
+      internalID: 4515980350548355771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_11
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 57
+        width: 237
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bab207099dfdf44b96f29594aa929f
+      internalID: -5142739467189101921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_12
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 57
+        width: 231
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebfcd00a6e5e04db9033479c57cb62
+      internalID: -8860052323960855835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_13
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 57
+        width: 231
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b642cb22c8504f97182547b842e54
+      internalID: -1163107623071474193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_14
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 57
+        width: 226
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5c9856784c664e9badf8842903442
+      internalID: -1940942323413100753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_15
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 52
+        width: 226
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbb83c9aacf8324fa8a2a32ed06fd3b
+      internalID: -636628067794653378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_16
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 57
+        width: 231
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc53ba03065c674595d43a43de7cfe9
+      internalID: -6415925992375331451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_17
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 57
+        width: 232
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469f956f8d7b1b54fa637e38e69fef63
+      internalID: -4591082487528668487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_18
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 57
+        width: 232
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b7e47d67a99541b0d55291816db21
+      internalID: 5735253053615337060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_19
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 57
+        width: 236
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052384339a842034fbb93d6ac9cf1da7
+      internalID: 2878501915947019044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_20
+      rect:
+        serializedVersion: 2
+        x: 6967
+        y: 57
+        width: 236
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e801880c439d334ba796d019ebf9bdd
+      internalID: 1357287960794217802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_21
+      rect:
+        serializedVersion: 2
+        x: 7373
+        y: 57
+        width: 237
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb61f3a71e90c44aab4ee95c9ad3e66
+      internalID: 5117555807770186746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_22
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 57
+        width: 242
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fedeea9b9450d4a9f227781dab7984
+      internalID: -789360452446410416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_23
+      rect:
+        serializedVersion: 2
+        x: 8185
+        y: 57
+        width: 242
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462c8d92c2da1f46bcaebc24582058e
+      internalID: 1917749758712127870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_24
+      rect:
+        serializedVersion: 2
+        x: 8592
+        y: 57
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc078eb73942c46b40d9fe1c37f2b8
+      internalID: 9203930104204105187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_25
+      rect:
+        serializedVersion: 2
+        x: 8952
+        y: 268
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4867e63863a1d64a8a261b20ea11e58
+      internalID: 8225659149530229095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_26
+      rect:
+        serializedVersion: 2
+        x: 8998
+        y: 57
+        width: 247
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1d66ce1092654e93d8f481e9500ff
+      internalID: 7343478449299162252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_27
+      rect:
+        serializedVersion: 2
+        x: 9358
+        y: 268
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079f7ed1d0ad614e990e180fa171278
+      internalID: 3047169001770516612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_28
+      rect:
+        serializedVersion: 2
+        x: 9404
+        y: 57
+        width: 242
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de7a9d0da09dd4a9ae18035287425f
+      internalID: 4801116489588980126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_29
+      rect:
+        serializedVersion: 2
+        x: 9764
+        y: 273
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e86a2236bd0c48b3d0cf7356027a5
+      internalID: 3348656529197704890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_30
+      rect:
+        serializedVersion: 2
+        x: 9810
+        y: 57
+        width: 247
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d0750fa54db04783eb7d0ecfeb0dd
+      internalID: -5859403388971610702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_31
+      rect:
+        serializedVersion: 2
+        x: 10170
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6de4d54397274b98bf07dd008cd4f
+      internalID: 4522744767685915083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_32
+      rect:
+        serializedVersion: 2
+        x: 10216
+        y: 57
+        width: 247
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0fedaad7e557d4a9c9f89cf98766a1
+      internalID: 3292163418370624184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_33
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 268
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d080b21b88a994ba1ee42a4374afab
+      internalID: -2167562898626903190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_34
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 268
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5b559c9288ba24696e276d3a40dab8
+      internalID: 7257560436522942924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_35
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 263
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eeabd9c6648be45898462f82da87ca
+      internalID: -6877014221385468524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_36
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f86576bc452f4bb7ba45cc13226b5
+      internalID: 2643168704695054522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_37
+      rect:
+        serializedVersion: 2
+        x: 7738
+        y: 263
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254147b9a84d3e43934e5e724a703f7
+      internalID: -9158033215806369628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_38
+      rect:
+        serializedVersion: 2
+        x: 8139
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d5e336f86e66429e83b34231f7d2f
+      internalID: -5110325271671404005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_39
+      rect:
+        serializedVersion: 2
+        x: 8545
+        y: 268
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73adfc16e1f2f674c892ede5419eacd3
+      internalID: 6988034671560021070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_40
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 263
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7881402e38ab74e48aea1ce2f25a15bd
+      internalID: 3566743596134198634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_41
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 258
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b4a79fa548004e89006ad95b8c50c
+      internalID: 2344739452154242845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_42
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 258
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d362f6dcf2530184a9e36de62dbc66c9
+      internalID: -8724015007127947651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_43
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 258
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e330ed4db3585d4ea28cf548b294f55
+      internalID: -3243571165366273161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_44
+      rect:
+        serializedVersion: 2
+        x: 6926
+        y: 258
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba257343569e14a893937dbe40a88f
+      internalID: 5354336370773745839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_45
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 258
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bf5b3ca1c1b246b3538e743ffde72
+      internalID: -3770440951084097855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_46
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 253
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ebb20cce397a4b97167b53b4312fc
+      internalID: 8553979739321989853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_47
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d622552eff29644b87f18045f7157e
+      internalID: -8090383112531554838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_48
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad54e61bd580349a612411b07b9ec3
+      internalID: 6350399575761633736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_49
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 253
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89b63d20f13de42a241d8308d6d1d6
+      internalID: -3734987789789393070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_50
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 258
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2655ff64af35994cbe702de3a0cd88a
+      internalID: -5225323468160147710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste idle_51
+      rect:
+        serializedVersion: 2
+        x: 4895
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ddab7bfb1436049b064329c80566bd
+      internalID: 969495408995280129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
