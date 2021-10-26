@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Dirt
+    uniqueID: 24163945
+    locked: 0
+  - name: Island
+    uniqueID: 778517481
+    locked: 0
   - name: Puente
     uniqueID: 1203403665
     locked: 0
