@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 3112387978595667301}
   - component: {fileID: 4659449445521285291}
   - component: {fileID: 6703998743258925449}
+  - component: {fileID: -470658597235185126}
   m_Layer: 9
   m_Name: Purple Character
   m_TagString: Player
@@ -73,8 +74,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 2109987559
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 12d1644c485d15f478ab7b6417b07d31, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -187,6 +188,7 @@ MonoBehaviour:
   MeleeAttack: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
     type: 3}
   OrangeBullet: {fileID: 0}
+  BlueBullet: {fileID: 0}
   SR: {fileID: 663992101493398447}
 --- !u!95 &6703998743258925449
 Animator:
@@ -207,3 +209,24 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!50 &-470658597235185126
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 663992101493398444}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

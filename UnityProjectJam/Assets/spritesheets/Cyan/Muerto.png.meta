@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 6bbfa96262ee405498b187255649d7fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2683585021575123470
+    second: Muerto_0
+  - first:
+      213: -1863851843993770557
+    second: Muerto_1
+  - first:
+      213: -4906419869084715686
+    second: Muerto_2
+  - first:
+      213: 5196803972589254000
+    second: Muerto_3
+  - first:
+      213: -1243037993946707654
+    second: Muerto_4
+  - first:
+      213: 5671439690019224151
+    second: Muerto_5
+  - first:
+      213: -2650883262277726990
+    second: Muerto_6
+  - first:
+      213: -2725263746361272105
+    second: Muerto_7
+  - first:
+      213: -8509956236405922737
+    second: Muerto_8
+  - first:
+      213: -1370855499897432294
+    second: Muerto_9
+  - first:
+      213: -6362081752375650785
+    second: Muerto_10
+  - first:
+      213: 2114373982854926403
+    second: Muerto_11
+  - first:
+      213: -360299422035836326
+    second: Muerto_12
+  - first:
+      213: -377728665953748564
+    second: Muerto_13
+  - first:
+      213: 5105817302171804737
+    second: Muerto_14
+  - first:
+      213: 7952419474173202673
+    second: Muerto_15
+  - first:
+      213: -2709925234956983668
+    second: Muerto_16
+  - first:
+      213: 4243735161864030570
+    second: Muerto_17
+  - first:
+      213: 1425482644842870614
+    second: Muerto_18
+  - first:
+      213: 2500705141546506972
+    second: Muerto_19
+  - first:
+      213: 5449018096957890385
+    second: Muerto_20
+  - first:
+      213: -119100916552214451
+    second: Muerto_21
+  - first:
+      213: 743562965885778311
+    second: Muerto_22
+  - first:
+      213: -6706283506906962384
+    second: Muerto_23
+  - first:
+      213: -998128086251695303
+    second: Muerto_24
+  - first:
+      213: -1313623830199795312
+    second: Muerto_25
+  - first:
+      213: 237425460608542037
+    second: Muerto_26
+  - first:
+      213: 6723141649303469590
+    second: Muerto_27
+  - first:
+      213: 2208873023849013426
+    second: Muerto_28
+  - first:
+      213: 5777635376415894007
+    second: Muerto_29
+  - first:
+      213: -933418800395181062
+    second: Muerto_30
+  - first:
+      213: -4156813216572215204
+    second: Muerto_31
+  - first:
+      213: 3684658519751576380
+    second: Muerto_32
+  - first:
+      213: 1272813875497450651
+    second: Muerto_33
+  - first:
+      213: -7317347116682834821
+    second: Muerto_34
+  - first:
+      213: -3549084351329066363
+    second: Muerto_35
+  - first:
+      213: 7295959352493703614
+    second: Muerto_36
+  - first:
+      213: 3059750407908271599
+    second: Muerto_37
+  - first:
+      213: 3309539815089785691
+    second: Muerto_38
+  - first:
+      213: -2388398196848549456
+    second: Muerto_39
+  - first:
+      213: 4278535817570749797
+    second: Muerto_40
+  - first:
+      213: -4137196611439476290
+    second: Muerto_41
+  - first:
+      213: 8039018095960223058
+    second: Muerto_42
+  - first:
+      213: 682188364267112082
+    second: Muerto_43
+  - first:
+      213: -8382499322984201011
+    second: Muerto_44
+  - first:
+      213: -899274267855169716
+    second: Muerto_45
+  - first:
+      213: -3904051777216497538
+    second: Muerto_46
+  - first:
+      213: -9168930981770127822
+    second: Muerto_47
+  - first:
+      213: 4488819322113448867
+    second: Muerto_48
+  - first:
+      213: 1643933107362062662
+    second: Muerto_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muerto_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 273
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228f76a935acc144816562470b9cd14
+      internalID: -2683585021575123470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 60
+        width: 247
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220bfebeb26861043a5fab5989e61c89
+      internalID: -1863851843993770557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 268
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333720aa60b13e449b9480a1a67a7cfb
+      internalID: -4906419869084715686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 55
+        width: 257
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc7b955b7a52b4c96d98b71e25ffcf
+      internalID: 5196803972589254000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 50
+        width: 262
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bee2a1d4c2c8a49977b6353f6df366
+      internalID: -1243037993946707654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 50
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22e175be370b243aa158aa2d54af88
+      internalID: 5671439690019224151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_6
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 45
+        width: 272
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6c8625570bbe4e972c1608005c2ba
+      internalID: -2650883262277726990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_7
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 45
+        width: 272
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b1a8051a8e6dc44aeae08aea0602fa
+      internalID: -2725263746361272105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_8
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 40
+        width: 276
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb28dadfb4c4234794295c468e356ef
+      internalID: -8509956236405922737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_9
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 35
+        width: 272
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66e1437e10b7964ba92896e8fa0a857
+      internalID: -1370855499897432294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_10
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 35
+        width: 277
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c65fde0d569c74493eb7f2504f61ae
+      internalID: -6362081752375650785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_11
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 35
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7534569b6d8054280f23e2329a0958
+      internalID: 2114373982854926403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_12
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 35
+        width: 272
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b763e2af078c4591c800d37f21412
+      internalID: -360299422035836326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_13
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 35
+        width: 267
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11f9848497b3f4487a5c14156caa27
+      internalID: -377728665953748564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_14
+      rect:
+        serializedVersion: 2
+        x: 4924
+        y: 35
+        width: 267
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8526412c438dda41893df1bc4727045
+      internalID: 5105817302171804737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_15
+      rect:
+        serializedVersion: 2
+        x: 5329
+        y: 35
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c864345fc6b1646b0b4f61a7d4e245
+      internalID: 7952419474173202673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_16
+      rect:
+        serializedVersion: 2
+        x: 5730
+        y: 35
+        width: 267
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dbca957e863694f81f5102102fad90
+      internalID: -2709925234956983668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_17
+      rect:
+        serializedVersion: 2
+        x: 6135
+        y: 35
+        width: 262
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cec86b6e293b546bc809ab8da0e4d8
+      internalID: 4243735161864030570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_18
+      rect:
+        serializedVersion: 2
+        x: 6541
+        y: 35
+        width: 257
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987b76143dda684a817e5bc0fc87494
+      internalID: 1425482644842870614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_19
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 35
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df43db12ca07c84ab871c7797acaeff
+      internalID: 2500705141546506972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_20
+      rect:
+        serializedVersion: 2
+        x: 7332
+        y: 30
+        width: 267
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b6465f993e71946a26fde88583ff8d
+      internalID: 5449018096957890385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_21
+      rect:
+        serializedVersion: 2
+        x: 7742
+        y: 30
+        width: 257
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a65320a5581854390ef9d0d85fc127
+      internalID: -119100916552214451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_22
+      rect:
+        serializedVersion: 2
+        x: 8152
+        y: 30
+        width: 253
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d37da397c88e04a9aa55009f034b62
+      internalID: 743562965885778311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_23
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 35
+        width: 262
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc38d504bdd1f144980230b9411eaf3
+      internalID: -6706283506906962384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_24
+      rect:
+        serializedVersion: 2
+        x: 8953
+        y: 30
+        width: 277
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222758bc0bc1cc4c9024a067fe993c5
+      internalID: -998128086251695303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_25
+      rect:
+        serializedVersion: 2
+        x: 9359
+        y: 35
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd513ef47573b4fbd9aaaa05322b5d
+      internalID: -1313623830199795312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_26
+      rect:
+        serializedVersion: 2
+        x: 9769
+        y: 35
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e6d3d2fc6c944b8de53a4eae869f2
+      internalID: 237425460608542037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_27
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f592970b17a8a4cab66f95497af551
+      internalID: 6723141649303469590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_28
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 258
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30515421b3b39459c5c8fefbf44816
+      internalID: 2208873023849013426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_29
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f644d2851af764da15bd6fed2eb9d4
+      internalID: 5777635376415894007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_30
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 248
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6d5d577653694ebc923bd76b9bd9f
+      internalID: -933418800395181062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_31
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b2e4f32be15742acd82215d9760d4
+      internalID: -4156813216572215204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_32
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 238
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d16da3d6e6c044b9e23291fc9f836
+      internalID: 3684658519751576380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_33
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 238
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e66d5bc7261fd34cbe0255c4ffa0d03
+      internalID: 1272813875497450651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_34
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 233
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e96e976ed98ef54ab02a008dcabf455
+      internalID: -7317347116682834821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_35
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 228
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee09a646f90cf469e5620118483932
+      internalID: -3549084351329066363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_36
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 223
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd3ba2b299295344988e34064d8e9c8
+      internalID: 7295959352493703614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_37
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 218
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545bf3db69b1fb94ea0193faab307446
+      internalID: 3059750407908271599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_38
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 213
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee5d4445b9cec45a958ab3d213e3e0
+      internalID: 3309539815089785691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_39
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 208
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc9376cfa48cce4b91867bce7421bd1
+      internalID: -2388398196848549456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_40
+      rect:
+        serializedVersion: 2
+        x: 6091
+        y: 203
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb7f6cbc84ef346a257bfbb4aad3d2
+      internalID: 4278535817570749797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_41
+      rect:
+        serializedVersion: 2
+        x: 6491
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a213cbe8d6d36ba48b2395ea2943dc06
+      internalID: -4137196611439476290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_42
+      rect:
+        serializedVersion: 2
+        x: 8108
+        y: 194
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd32861a809f14c93ee86165a392e2
+      internalID: 8039018095960223058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_43
+      rect:
+        serializedVersion: 2
+        x: 6892
+        y: 194
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f700bbe7ebee747961d6260b0e5d1c
+      internalID: 682188364267112082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_44
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 189
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1236879ffa19940a5115826bcbddde
+      internalID: -8382499322984201011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_45
+      rect:
+        serializedVersion: 2
+        x: 8508
+        y: 189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9346578095247d74fbf9361445b4713b
+      internalID: -899274267855169716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_46
+      rect:
+        serializedVersion: 2
+        x: 9725
+        y: 189
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00be6bb178c2f419d64735451a3e2d
+      internalID: -3904051777216497538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_47
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa2970378614a42bdf79da9fc2d868
+      internalID: -9168930981770127822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_48
+      rect:
+        serializedVersion: 2
+        x: 8909
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88dcd47d3d290f42acff2750be055b2
+      internalID: 4488819322113448867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerto_49
+      rect:
+        serializedVersion: 2
+        x: 9319
+        y: 189
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28ddea53cf2a343a3d3163567ca084
+      internalID: 1643933107362062662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

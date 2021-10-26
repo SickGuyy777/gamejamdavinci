@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: -1470182332893128857}
   - component: {fileID: 110262953}
   - component: {fileID: 2134939058065937291}
+  - component: {fileID: 4097033893202947805}
   m_Layer: 14
   m_Name: Yellow Character
   m_TagString: Player
@@ -73,8 +74,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 2109987559
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -3310633787525797498, guid: 42092df563d11034f9d027e953e8a464,
     type: 3}
@@ -183,8 +184,11 @@ MonoBehaviour:
   SkillCooldown: 1
   SkillCurrentCooldown: 0
   Bullet: {fileID: 5158947919955132962, guid: 4cd336ef6dbae6a4a99afccaa807417a, type: 3}
+  PurpleBullet: {fileID: 0}
   MeleeAttack: {fileID: 8442152251561770839, guid: 7328f80cca94a0848b871152c81f8620,
     type: 3}
+  OrangeBullet: {fileID: 0}
+  BlueBullet: {fileID: 0}
   SR: {fileID: 5305040082968789421}
 --- !u!95 &2134939058065937291
 Animator:
@@ -205,3 +209,24 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!50 &4097033893202947805
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5305040082968789422}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

@@ -20,9 +20,9 @@ TagManager:
   - EnemyAttack
   - Player Healing
   - PlayerHealer
-  - 
-  - 
-  - 
+  - Borders
+  - PuenteCeleste
+  - CyanPlayer
   - 
   - 
   - 
@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Puente
+    uniqueID: 1203403665
+    locked: 0
+  - name: Cuerdas
+    uniqueID: 1099799281
+    locked: 0
   - name: Bullets
     uniqueID: 3396717031
+    locked: 0
+  - name: Players
+    uniqueID: 2109987559
     locked: 0

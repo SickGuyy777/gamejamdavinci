@@ -7,10 +7,13 @@ public class CharacterMovement : MonoBehaviour
     public float MovementSpeed;
     public SpriteRenderer SR;
     private Animator animator;
+    private Rigidbody2D RB;
 
     // Start is called before the first frame update
     void Start()
     {
+        RB = GetComponent<Rigidbody2D>();
+        RB.freezeRotation = true;
         animator = GetComponent<Animator>();
     }
 
@@ -22,11 +25,11 @@ public class CharacterMovement : MonoBehaviour
         InputVector.y = Input.GetAxis("Vertical");
         InputVector.z = 0f;
         transform.position += InputVector * Time.deltaTime * MovementSpeed;
-        if (Input.GetKey("a")) { SR.flipX = false; } 
+        if (InputVector.x < 0) { SR.flipX = false; } 
         
-        if (Input.GetKey("d")) { SR.flipX = true;}
+        if (InputVector.x > 0) { SR.flipX = true;}
         
-        if (InputVector.x != 0) { animator.SetBool("Run", true); }
+        if (InputVector.x != 0 || InputVector.y != 0) { animator.SetBool("Run", true); }
         else { animator.SetBool("Run", false); }
     }
     
