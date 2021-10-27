@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bridge
   layers:
   - Default
   - TransparentFX
@@ -23,7 +24,7 @@ TagManager:
   - Borders
   - PuenteCeleste
   - CyanPlayer
-  - 
+  - CyanLever
   - 
   - 
   - 
@@ -50,11 +51,23 @@ TagManager:
   - name: Puente
     uniqueID: 1203403665
     locked: 0
+  - name: Poste Trasero
+    uniqueID: 71511755
+    locked: 0
+  - name: Poste Delantero
+    uniqueID: 797868279
+    locked: 0
   - name: Cuerdas
     uniqueID: 1099799281
     locked: 0
   - name: Bullets
     uniqueID: 3396717031
+    locked: 0
+  - name: IslandObjects
+    uniqueID: 2652175755
+    locked: 0
+  - name: Palanca
+    uniqueID: 139044217
     locked: 0
   - name: Players
     uniqueID: 2109987559

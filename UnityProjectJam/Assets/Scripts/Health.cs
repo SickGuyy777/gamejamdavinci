@@ -17,7 +17,8 @@ public class Health : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (animator.GetBool("Death") == true) { GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false; }
+        if (animator.GetBool("Death") == false) { GetComponent<CharacterMovement>().enabled = true; GetComponent<Skills>().enabled = true; }
     }
 
     private void Awake()
@@ -28,7 +29,7 @@ public class Health : MonoBehaviour
     {
         CurrentHealth -= DamageReceived;
         if (CurrentHealth <= 0) { animator.SetBool("Death", true); }
-        if (CurrentHealth > 0) { animator.SetBool("Death", false); }
-
+        if (CurrentHealth > 0) { animator.SetBool("Death", false);}
+        
     }
 }

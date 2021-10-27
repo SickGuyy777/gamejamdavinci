@@ -6,24 +6,23 @@ public class EnemyProjectileSpawner : MonoBehaviour
 {
     public float CurrentAttackCooldown;
     public float AttackCooldown;
-    private Transform Target;
-    public float AttackRange;
     public GameObject Bala;
+    public SpriteRenderer SR;
 
     // Start is called before the first frame update
     void Start()
     {
-        Target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
 
     // Update is called once per frame
     void Update()
     {
         CurrentAttackCooldown -= Time.deltaTime; 
-        if (Vector2.Distance(transform.position, Target.position) <= AttackRange && CurrentAttackCooldown <= 0)
+        if (CurrentAttackCooldown <= 0)
         {
             GameObject BalaInstance = Instantiate(Bala, transform.position, Quaternion.identity); CurrentAttackCooldown = AttackCooldown;
-            BalaInstance.transform.right = transform.up;
+            if (SR.flipX == true) { BalaInstance.transform.right = transform.right; }
+            else { BalaInstance.transform.right = -transform.right; }
         }
     }
 }
