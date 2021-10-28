@@ -6,15 +6,18 @@ public class VictoryCondition : MonoBehaviour
 {
     public int PlayersAtEnd;
     public GameObject TxtVictory;
-    // Start is called before the first frame update
+
     void Start()
     {
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (PlayersAtEnd >= 7 ) {}
+        if (PlayersAtEnd >= 7 )
+        {
+            TxtVictory.SetActive(true);
+            Time.timeScale = 0f;
+        }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
