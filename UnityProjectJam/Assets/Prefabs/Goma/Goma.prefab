@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 2010234435}
   - component: {fileID: 2010234433}
   - component: {fileID: 2010234434}
+  - component: {fileID: -2877689056716257037}
   m_Layer: 12
   m_Name: Goma
   m_TagString: Untagged
@@ -198,3 +199,16 @@ MonoBehaviour:
   BaseHealth: 50
   CurrentHealth: 0
   MaxHealth: 150
+--- !u!114 &-2877689056716257037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6041314875759148914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ae3a98a372e4a488ba359c77d55340, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 2010234435}

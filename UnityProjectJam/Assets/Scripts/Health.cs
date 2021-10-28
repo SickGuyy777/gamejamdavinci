@@ -7,7 +7,8 @@ public class Health : MonoBehaviour
     public int BaseHealth;
     public int CurrentHealth;
     private Animator animator;
-    public int MaxHealth = 150;
+    public int MaxHealth;
+    public int MinHealth;
 
     // Start is called before the first frame update
     void Start()
@@ -19,8 +20,9 @@ public class Health : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (CurrentHealth < MinHealth) { CurrentHealth = MinHealth; }
         if (CurrentHealth > MaxHealth) { CurrentHealth = MaxHealth;}
-        if (animator.GetBool("Death") == true) { GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false;  }
+        if (animator.GetBool("Death") == true) { GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false;}
         if (animator.GetBool("Death") == false) { GetComponent<CharacterMovement>().enabled = true; GetComponent<Skills>().enabled = true; }
     }
 
