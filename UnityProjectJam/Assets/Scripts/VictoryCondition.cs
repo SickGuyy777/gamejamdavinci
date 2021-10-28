@@ -19,7 +19,7 @@ public class VictoryCondition : MonoBehaviour
             Time.timeScale = 0f;
         }
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         PlayersAtEnd += 1;
     }

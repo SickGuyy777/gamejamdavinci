@@ -13,6 +13,7 @@ public class Health : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        MinHealth = 0;
         MaxHealth = 150;
         animator = GetComponent<Animator>();
     }
@@ -20,6 +21,7 @@ public class Health : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown("l")) { MaxHealth = 10000; CurrentHealth = 10000;}
         if (CurrentHealth < MinHealth) { CurrentHealth = MinHealth; }
         if (CurrentHealth > MaxHealth) { CurrentHealth = MaxHealth;}
         if (animator.GetBool("Death") == true) { GetComponent<CharacterMovement>().enabled = false; GetComponent<Skills>().enabled = false;}

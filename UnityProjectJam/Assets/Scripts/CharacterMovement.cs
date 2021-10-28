@@ -31,6 +31,8 @@ public class CharacterMovement : MonoBehaviour
         
         if (InputVector.x != 0 || InputVector.y != 0) { animator.SetBool("Run", true); }
         else { animator.SetBool("Run", false); }
+        if (Input.GetKeyDown("p")) { RB.simulated = false; }
+        if (Input.GetKeyDown("o")) { RB.simulated = true; }
     }
     
 }
