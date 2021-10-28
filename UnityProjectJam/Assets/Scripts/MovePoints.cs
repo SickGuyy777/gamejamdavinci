@@ -9,6 +9,7 @@ public class MovePoints : MonoBehaviour
     public Transform currentTarget;
     public float movementSpeed;
     public Rigidbody2D rb;
+    public SpriteRenderer SR;
 
     void Start()
     {
@@ -22,6 +23,7 @@ public class MovePoints : MonoBehaviour
         {
             if (currentTarget == pointA)
             {
+                
                 currentTarget = pointB;
             }
             else
@@ -29,5 +31,8 @@ public class MovePoints : MonoBehaviour
                 currentTarget = pointA;
             }
         }
+        if (currentTarget == pointA) { SR.flipX = false; }
+        if (currentTarget == pointB) { SR.flipX = true; }
+
     }
 }

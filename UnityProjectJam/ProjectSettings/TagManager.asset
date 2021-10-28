@@ -63,7 +63,10 @@ TagManager:
   - name: Bullets
     uniqueID: 3396717031
     locked: 0
-  - name: IslandObjects
+  - name: IslandObjects1
+    uniqueID: 1871868061
+    locked: 0
+  - name: IslandObjects2
     uniqueID: 2652175755
     locked: 0
   - name: Palanca

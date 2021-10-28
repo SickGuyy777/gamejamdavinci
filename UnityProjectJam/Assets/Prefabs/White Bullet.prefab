@@ -71,7 +71,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -898250265
-  m_SortingLayer: 5
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: dd8e5a7a3d013504b8bd168f40484862, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Myrigidbody2D: {fileID: -952783742408099488}
   BulletSpeed: 7
-  Lifetime: 10
+  Lifetime: 1.5
 --- !u!50 &-952783742408099488
 Rigidbody2D:
   serializedVersion: 4
